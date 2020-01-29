@@ -1,5 +1,7 @@
 ### Dataset Preview:
 
+##I trained These images  on Google colab , i want to give an intuition about how is the CNN architicture is so powerful in detecting a patterns in images and it makes a good job on predicting unseen images in the future and it is clear in my Notebook , you will see that the accuracy of CNN is more accecptable Than other Fully connected Netwroks that i Trained it too , to see the difference 
+
 |<img src="Examples/example_0.JPG">|<img src="Examples/example_1.JPG">|<img src="Examples/example_2.JPG">|<img src="Examples/example_3.JPG">|<img src="Examples/example_4.JPG">|
 |:-:|:-:|:-:|:-:|:-:|
 |0|1|2|3|4|
