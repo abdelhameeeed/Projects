@@ -1,0 +1,1342 @@
+Coronavirus has caused more than 45,000 infections since it debuted in 2019, with more than 1,000 people dead. As health officials warn the virus could be here to stay for months more, they have assigned the disease a new name, COVID-19.
+What does COVID-19 stand for?
+When it emerged, the virus was known as a “novel” strain of the coronavirus family.
+Scientists gave the strain an interim name of 2019-nCoV, accounting for the year of discovery, its status as a “novel” virus, and its family name (CoV).
+The new designation, while different, represents the same information.
+“It also gives us a standard format to use for any future coronavirus outbreaks.”
+The WHO added via Twitter: “Under agreed guidelines between WHO, the @OIEAnimalHealth & @FAO, we had to find a name that did not refer to a geographical location, an animal, 
+an individual or group of people, and which is also pronounceable and related to the disease”.
+According to experts, the name of a disease is instrumental during an outbreak.
+Speaking to TIME Magazine, Wendy Parmet, a law professor at Northeastern University, said if scientists name a disease after its country of origin, perceived stigma may make people hesitant to come forward.
+She said: “People tend to think of the disease as belonging to, as being a characteristic of some group of people associated with the place name, which can be really stigmatising.
+“To be thought of as a hole of disease is not going to be productive.
+“It encourages the next city not to come forward, not to report a disease if your city is labelled as the disease.”
+The name of the latest coronavirus outbreak has taken increased importance as Chinese residents in the UK have revealed “shocking” levels of racism.
+Manchester-born legal adviser Jason Ngan told The Guardian anti-Asian racism in his city has peaked in the wake of the coronavirus outbreak.
+He said: “People seem to have put a whole race behind it and it’s exposing all these underlying prejudices towards Chinese people, or at least anyone who looks Chinese.
+“It’s shocking in this day and age.”
+For live updates on the latest developments regarding the novel coronavirus and COVID-19, click here.
+The coronavirus, SARS-CoV-2, has infected more than 175,000 people worldwide.
+
+Because the virus is novel, scientists are scrambling to understand how it behaves. Their findings will guide responses to the pandemic and help officials design ways to intervene and stem the flow.
+
+Scientists from the University of Texas at Austin are part of this frenzied activity and are trying to understand how quickly the virus can spread. Their recent findings are awaiting publication in the journal Emerging Infectious Diseases.
+The serial interval
+The research involved scientists from the United States, France, China, and Hong Kong. They were particularly interested in understanding how quickly SARS-CoV-2 might spread.
+
+When scientists are estimating how quickly a virus will spread, they pay attention to two primary factors:
+
+1. The reproduction number — or how many people each individual with the virus is likely to infect.
+
+2. The serial interval — or time between one person developing the symptoms of a condition and a second person becoming infected and developing symptoms.
+
+The researchers in the latest study found that the serial interval for SARS-CoV-2 was approximately 4 days.
+
+They explain that a shorter serial interval makes an epidemic harder to contain and more likely to spread quickly.
+
+“Ebola, with a serial interval of several weeks, is much easier to contain than influenza, with a serial interval of only a few days. Public health responders to Ebola outbreaks have much more time to identify and isolate cases before they infect others,” explains Prof. Lauren Ancel Meyers from the University of Texas at Austin. “The data suggest that this coronavirus may spread like the flu. That means we need to move quickly and aggressively to curb the emerging threat.”
+‘Silent transmission’
+A “silent transmission” occurs when someone who has contracted the virus shows no symptoms but passes the virus to someone else. The current study is one of the first to examine this phenomenon for SARS-CoV-2.
+
+To investigate, the researchers studied 450 case reports from 93 Chinese cities.
+
+They found the most convincing evidence to date that people can transmit the virus before symptoms begin, a scenario that is also known as presymptomatic transmission.
+
+The authors estimate that people who had not yet developed symptoms transmitted around 10% of the cases they studied.
+
+It is not clear how much of a role asymptomatic or presymptomatic transmission might play in the coronavirus pandemic. These findings might help make better predictions about how the virus will behave.
+The novel coronavirus, now known as SARS-CoV-2, has spread from Wuhan, China, to every continent on Earth except Antarctica.
+
+As we write this feature, there have been more than 92,000 confirmed cases and over 3,100 deaths.
+
+As ever, when the word “pandemic” starts appearing in headlines, people become fearful, and with fear come misinformation and rumors.
+
+Here, we will dissect some of the most common myths that are currently circulating on social media and beyond.
+
+1. Spraying chlorine or alcohol on skin kills viruses in the body
+Applying alcohol or chlorine to the body can cause harm, especially if it enters the eyes or mouth. Although people can use these chemicals to disinfect surfaces, they should not use them on skin.
+
+These products cannot kill viruses within the body.
+
+2. Only older adults and young people are at risk
+SARS-CoV-2, like other coronaviruses, can infect people of any age. However, older adults or individuals with preexisting health conditions, such as diabetes or asthma, are more likely to become severely ill.
+
+3. Children cannot catch COVID-19
+All age groups can become infected. Most cases, so far, have been in adults, but children are not immune. In fact, preliminary evidence shows that children are just as likely to become infected, but their symptoms tend to be less severe.
+
+4. COVID-19 is just like the flu
+SARS-CoV-2 causes illness that does, indeed, have flu-like symptoms, such as aches, fever, and cough. Similarly, both COVID-19 and flu can be mild, severe, or, in rare cases, fatal. Both can also lead to pneumonia.
+
+However, the overall profile of COVID-19 is more serious. Estimates vary, but its mortality rate seems to be between about 1% and 3%.
+
+Although scientists are working out the exact mortality rate, it is likely to be many times higher than that of seasonal flu.
+
+5. Everyone with COVID-19 dies
+This statement is untrue. As we have mentioned above, COVID-19 is only fatal for a small percentage of people.
+
+In a recent report, the Chinese Center for Disease Control and Prevention concluded that 80.9% of COVID-19 cases were mild.
+
+6. Cats and dogs spread coronavirus
+Currently, there is little evidence that SARS-CoV-2 can infect cats and dogs. However, in Hong Kong, a Pomeranian whose owner had COVID-19 became infected. The dog did not display any symptoms.
+
+Scientists are debating the importance of this case to the epidemic. For instance, Prof. Jonathan Ball, Professor of Molecular Virology at the University of Nottingham in the United Kingdom, says:
+
+“We have to differentiate between real infection and just detecting the presence of the virus. I still think it’s questionable how relevant it is to the human outbreak, as most of the global outbreak has been driven by human-to-human transmission.”
+
+He continues: “We need to find out more, but we don’t need to panic — I doubt it could spread to another dog or a human because of the low levels of the virus. The real driver of the outbreak is humans.”
+
+7. Face masks protect against coronavirus
+Healthcare workers use professional face masks, which fit tightly around the face, to protect them against infection. However, disposable face masks are unlikely to provide such protection.
+
+As these masks do not fit neatly against the face, droplets can still enter the mouth and nose. Also, tiny viral particles can penetrate directly through the material.
+
+However, if someone has a respiratory illness, wearing a mask can help protect others from becoming infected.
+
+“There is very little evidence that wearing such masks protects the wearer from infection,” Dr. Ben Killingley, Consultant in Acute Medicine and Infectious Diseases at University College London Hospital in the U.K., explains.
+
+“Furthermore, wearing masks can give a false sense of reassurance and might lead to other infection control practices being ignored, e.g., hand hygiene.”
+
+The WHO recommend that people who are caring for someone with suspected COVID-19 should wear a mask. In these cases, wearing a mask is only effective if the individual regularly washes their hands with alcohol-based hand rub or soap and water.
+
+Also, when using a mask, it is important to use it and dispose of it properly.
+
+8. Hand dryers kill coronavirus
+Hand dryers do not kill coronavirus. The best way to protect yourself and others from the virus is to wash your hands with soap and water or an alcohol-based hand rub.
+
+9. SARS-CoV-2 is just a mutated form of the common cold
+Coronaviruses are a large family of viruses, all of which have spiky proteins on their surface. Some of these viruses use humans as their primary host and cause the common cold. Other coronaviruses, such as SARS-CoV-2, primarily infect animals.
+
+Both Middle East respiratory syndrome (MERS) and severe acute respiratory syndrome (SARS) began in animals and passed into humans.
+
+10. You have to be with someone for 10 minutes to catch the virus
+The longer someone is with an infected person, the more likely they are to catch the virus, but it is still possible to catch it in less than 10 minutes.
+
+11. Rinsing the nose with saline protects against coronavirus
+There is no evidence that a saline nose rinse protects against respiratory infections. Some research suggests that this technique might reduce the symptoms of acute upper respiratory tract infections, but scientists have not found that it can reduce the risk of infection.
+
+12. You can protect yourself by gargling bleach
+There are no circumstances in which gargling bleach might benefit your health. Bleach is corrosive and can cause serious damage.
+
+13. Antibiotics kill coronavirus
+Antibiotics only kill bacteria; they do not kill viruses.
+
+14. Thermal scanners can diagnose coronavirus
+Thermal scanners can detect whether someone has a fever. However, other conditions, such as seasonal flu, can also produce fever.
+
+In addition, symptoms of COVID-19 can appear 2–10 days after infection, which means that someone infected with the virus could have a normal temperature for a few days before a fever begins.
+
+15. Garlic protects against coronaviruses
+Some research suggests that garlic might slow the growth of some species of bacteria. However, COVID-19 is caused by a virus, and there is no evidence that garlic can protect people against COVID-19.
+
+16. Parcels from China can spread coronavirus
+From previous research into similar coronaviruses, including those that cause SARS and MERS and are similar to SARS-CoV-2, scientists believe that the virus cannot survive on letters or packages for an extended time.
+
+The CDC explain that “because of poor survivability of these coronaviruses on surfaces, there is likely very low risk of spread from products or packaging that are shipped over a period of days or weeks at ambient temperatures.”
+
+17. Home remedies can cure and protect against COVID-19
+No home remedies can protect against COVID-19, including vitamin C, essential oils, silver colloid, sesame oil, garlic, and sipping water every 15 minutes.
+
+The best approach is to adopt a good handwashing regimen and to avoid places where there may be unwell people.
+
+18. You can catch coronavirus from eating Chinese food in the U.S.
+No, you cannot.
+
+19. You can catch coronavirus from urine and feces
+It is unlikely that this is true. According to Prof. John Edmunds from the London School of Hygiene & Tropical Medicine in the U.K.:
+
+“It isn’t a very pleasant thought, but every time you swallow, you swallow mucus from your upper respiratory tract. In fact, this is an important defensive mechanism. This sweeps viruses and bacteria down into our gut where they are denatured in the acid conditions of our stomachs.”
+
+“With modern, very highly sensitive detection mechanisms, we can detect these viruses in feces. Usually, viruses we can detect in this way are not infectious to others, as they have been destroyed by our guts.”
+
+20. The virus will die off when temperatures rise in the spring
+Some viruses, such as cold and flu viruses, do spread more easily in the colder months, but that does not mean that they stop entirely when conditions become milder. As it stands, scientists do not know how temperature changes will influence the behavior of SARS-CoV-2.
+
+21. Coronavirus is the deadliest virus known to man
+Although SARS-CoV-2 does appear to be more serious than influenza, it is not the deadliest virus that people have faced. Others, such as Ebola, have higher mortality rates.
+
+22. Flu and pneumonia vaccines protect against COVID-19
+As SARS-CoV-2 is different than other viruses, no existing vaccines protect against infection.
+
+23. The virus originated in a laboratory in China
+Despite the swathes of internet rumors, there is no evidence that this is the case. Some researchers believe that SARS-CoV-2 may have jumped from pangolins to humans. Others think that it might have passed to us from bats, which was the case for SARS.
+
+24. The outbreak began because people ate bat soup
+Although scientists are confident that the virus started in animals, there is no evidence that it came from soup of any kind.
+What should we do?
+The Centers for Disease Control and Prevention (CDC) recommend these simple measures to reduce the spread of SARS-CoV-2:
+
+avoid close contact with people who seem sick
+try not to touch your eyes, nose, or mouth
+stay at home if you are sick
+sneeze into a tissue, then throw it in the trash
+if there are no tissues to hand, sneeze into the crook of your elbow
+use standard cleaning sprays and wipes to disinfect frequently touched objects and surfaces
+wash your hands with soap regularly for 20 seconds
+Unless you are a health worker or are caring for someone who is sick, the CDC do not recommend wearing face masks. The tips above might seem simplistic, but during an epidemic, these are the best ways to make a difference.
+
+The Manchester Chinese Centre reported racist incidents targeting Asian children across the region, and the University of York released a statement last week calling for respect and tolerance in the face of xenophobic comments directed towards its students on Yorfess, its anonymous confession page.
+The World Health Organisation has outlined that sufferers of asthma are in the increased risk group, but there is no research currently to suggest they are more likely to contract the disease or suffer a more severe illness.
+ 
+However, as asthmatic people are generally more at risk with seasonal infections such as the flu and other respiratory infections such as pneumonia, they should still take all the necessary precautions such as social distancing and washing hands diligently.
+
+Getting a respiratory infection can make the symptoms of asthma much worse and make someone more likely to have an attack.
+
+Severe asthma is rare but difficult to control. If you are deemed very high risk because of this, the NHS will contact you over the coming week with instructions.
+The scale of the coronavirus assault on the UK became all too clear yesterday as the government announced that all non-urgent operations in England and Scotland will be postponed to free up beds for virus patients. This came as the government’s chief scientific adviser Sir Patrick Vallance said it would be a “good outcome” for the UK if the number of deaths from the virus could be kept below 20,000. Amid this heightened climate, it is essential to recognise the symptoms associated with the coronavirus so that you can protect yourself and others.
+
+
+ 
+Other emergency warning signs include:
+
+Difficulty breathing or shortness of breath
+New confusion or inability to arouse
+Bluish lips or face
+As the NHS points out, if you experience symptoms, however mild or severe, it is important to adopt additional social distancing measures if you live with other people.
+
+“If you live with other people, they should stay at home for 14 days from the day the first person got symptoms,” explains the health body.
+
+It adds: “If you live with someone who is 70 or over, has a long-term condition, is pregnant or has a weakened immune system, try to find somewhere else for them to stay for 14 days.”
+
+How to keep your mind occupied
+Self-isolating may be critical at this time, but spending long periods of time at home can take its toll on your mood.
+
+Public Health England (PHE) explains: “You may find your mood and feelings are affected and you may feel low, worried or have problems sleeping and you might miss being outside with other people.”
+
+As the health body points out, it can be easy to fall into unhealthy patterns of behaviour which in turn can make you feel worse.
+
+There are simple steps you can take to stay mentally and physically active during this time, however.
+
+PHE recommends trying the following:
+
+
+ 
+Look for ideas of exercises you can do at home on the NHS website
+Spend time doing things you enjoy – this might include reading, cooking, other indoor hobbies or listening to the radio or watching TV programmes
+Try to eat healthy, well-balanced meals, drink enough water, exercise regularly, and try to avoid smoking, alcohol and drugs
+Keep your windows open to let in fresh air, get some natural sunlight if you can, or get outside into the garden
+“You can also go for a walk outdoors if you stay more than two metres from others,” explains the health site.
+
+Coronavirus – what is the UK latest?
+As of 9am on 17 March 2020, 50,442 people have been tested in the UK, of which 48,492 were confirmed negative and 1,950 were confirmed as positive.
+
+The latest confirmed number of deaths will be announced later today.
+Coronaviruses are a large family of viruses that cause illnesses ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). Coronavirus disease (COVID-19) is a new strain that was discovered in 2019 and has not been previously identified in humans. It is important to note this distinction because what experts currently know about the new virus is based on modelling from similar viruses and the data thrown up by its real-time impact on human populations.
+Using both modelling techniques and real-time insights, experts are shedding light on the characteristics that may increase your risk catching the virus.
+
+Adding to the emerging body of research, a new study claims that that your blood type may influence your likelihood of catching the virus.
+
+Researchers from Zhongnan Hospital of Wuhan University have revealed that people with blood type A may be more vulnerable to the disease than those with blood type O.
+
+To arrive at this verdict, researchers analysed 2,173 coronavirus patients, including 206 people who had died after contracting the virus.
+READ MORE: Coronavirus underlying conditions list in full: What are the underlying health conditions?
+
+ 
+
+They found that while type O (34 percent) blood is more common in the general population than type A (32 percent), in COVID-19 patients, people with Type O accounted for just 25 percent, whereas Type A made up 41 percent.
+
+Meanwhile, of the 206 patients who died in the study, 41 percent were found to be type A, while just 25 percent were type O.
+
+Commenting on their results, the researchers, led by Jiao Zhao, said: “Blood group O was associated with a lower risk of death compared with non-O groups. To the contrary, blood group A was associated with a higher risk of death compared with non-A groups.”
+In light of their findings, the researchers suggest that additional protective measures may be needed for people that fall into the type A blood category.
+
+DON’T MISS 
+Coronavirus named: What does COVID-19 stand for? Coronavirus name meaning [INSIGHT]
+Coronavirus symptoms: What is a continuous cough? [INSIGHT]
+Coronavirus: Can Dettol kill the virus? Disinfectants you could use against the virus [INSIGHT]
+
+They said: “People of blood group A might need particularly strengthened personal protection to reduce the chance of infection.
+
+“Sars-CoV-2-infected patients with blood group A might need to receive more vigilant surveillance and aggressive treatment.”
+
+However, due to the small sample size study, further evidence is needed to directly inform public action.
+
+Speaking to South China Morning Post, Gao Yingdai, a researcher with the State Key Laboratory of Experimental Haematology in Tianjin, said: “[The study] may be helpful to medical professionals, but ordinary citizens should not take the statistics too seriously.”
+
+Yingdai added: “If you are type A, there is no need to panic. It does not mean you will be infected 100 percent.
+
+“If you are type O, it does not mean you are absolutely safe, either. You still need to wash your hands and follow the guidelines issued by authorities.”
+
+How is blood type determined?
+According to the NHS, your blood group is determined by the genes you inherit from your parents.
+
+There are four main blood groups (types of blood) – A, B, AB and O.
+“Blood group O is the most common blood group. Almost half of the UK population (48 percent) has blood group O,” says the health body.
+
+Officially recognised at-risk groups
+
+Public Health England says you at risk if you are:
+
+Aged 70 or older (regardless of medical conditions)
+Under 70 with an underlying health condition listed below (ie anyone instructed to get a flu jab as an adult each year on medical grounds):
+Chronic (long-term) respiratory diseases, such as asthma, chronic obstructive pulmonary disease (COPD), emphysema or bronchitis
+Chronic heart disease, such as heart failure
+Chronic kidney disease
+Chronic liver disease, such as hepatitis
+Chronic neurological conditions, such as Parkinson’s disease,motor neurone disease, multiple sclerosis, a learning disability or cerebral palsy
+Diabetes
+Problems with your spleen – for example, sickle cell disease or if you have had your spleen removed
+A weakened immune system is the result of conditions such as HIV and AIDS or medicines such as steroid tablets or chemotherapy
+Being seriously overweight (a BMI of 40 or above)
+Those who are pregnant
+How can I protect those most at risk?
+The key message current being communicated by public health bodies is to is to self-isolate for seven days if you have mild symptoms.
+
+As a preventative measure, it is also vital to wash your hands with soap and water often – do this for at least 20 seconds.
+Coronavirus dominates headlines as the virus continues to spread. Is a new cure on the horizon? New research suggests so.
+Researchers from Utrecht University collaborated with Erasmus University Medical Centre, both in the Neverlands, and Harbour BioMed – a company that specialises in biopharmaceuticals – to work on a possible cure for the COVID-19 disease.
+
+Their study outlines the first report of a human monoclonal antibody that could block the virus.
+
+What’s a monoclonal antibody?
+First, it’s critical to understand how antibodies work.
+
+Antibodies are proteins produced by B cells (part of the immune system).
+
+They bind to “foreign” materials that try to invade the body, such as viruses, and directly neutralise them and trigger a wider immune response.
+
+Antibodies do this by binding an antibody to an antigen – a specific molecule present on the virus.
+
+Scientists are able to create antibodies that target a specific antigen, and these are called monoclonal antibodies.
+
+READ MORE: Coronavirus: Do you have an ‘underlying health condition’? How to social distance yourself
+
+The authors of the study said: “Our data show that 47D11 neutralise SARS-CoV-2 through a yet unknown mechanism.”
+Yet to be peer-reviewed, Utrecht University heed caution about the promising study.
+
+It said: “Research leader and last author Berend-Jan Bosch (Utrecht University) does not want to raise false expectations.
+
+“It is a promising first step, but it is far too early to speculate about the potential efficacy in humans.
+
+“The research is being reviewed by a leading scientific journal. Further comments can be provided once the item has been accepted.”
+
+Meanwhile, Dr Hilary Jones appeared on TV programme Lorraine on the morning of Wednesday 18 March.
+
+He commented that “scientists are working flat-out around the world” to produce a vaccine for COVID-19.
+
+Dr Hilary confirmed “human trials are already happening”, and progress on a cure for COVID-19 is taking place “quickly”.
+
+Any potential vaccines must be tested for safety and, once verified as safe, a mass production would be underway.
+
+It’s rumoured a vaccine would be available by this autumn, but Dr Hilary dismisses this as “optimistic”.
+
+However, he does stress that a vaccine will be available “as soon as possible”.
+Coronavirus cases are now being confirmed by Public Health England in each local authority, as surge of infections continue. Those with underlying health conditions are urged to distance themselves from other people. Does it affect you?
+
+
+ 
+As of Tuesday March 17, the government reported that there are 1,950 confirmed cases of COVID-19.
+
+On Monday March 16, Prime Minister Boris Johnson began his daily update to the public on the global pandemic.
+
+Now social distancing measures are in place to try to reduce the transmission of COVID-19.
+
+People with diabetes have been advised by the government to carefully follow those measures, as they’re at an increased risk of severe illness from coronavirus COVID-19.
+
+Other health conditions noted by the government include asthmatics and those living with chronic heart disease.
+
+Public Health England (PHE) detail the full list of those who need to take extra precaution to keep away from others at this time. It goes as follows:
+
+Aged 70 or older (regardless of medical conditions)
+Under 70 with an underlying health condition listed below:
+Chronic (long-term) respiratory diseases, such as asthma, chronic obstructive Pulmonary disease (COPD), emphysema or bronchitis
+Chronic heart disease, such as heart failure
+Chronic kidney disease
+Chronic liver disease, such as hepatitis
+Chronic neurological conditions, such as Parkinson’s disease, motor neurone disease, multiple sclerosis (MS), a learning disability or cerebral palsy
+Diabetes
+Problems with your spleen – for example, sickle cell disease or if you have had your spleen removed
+A weakened immune system as the result of conditions such as HIV and AIDS, or medicines such as steroid tablets or chemotherapy
+Being seriously overweight (a body mass index (BMI) of 40 or above)
+Those who are pregnant
+PHE add: “There are some clinical conditions which put people at even higher risk of severe illness from COVID-19.
+
+READ MORE: Coronavirus and asthma: Are people with asthma at high risk for coronavirus?
+
+The PHE continues that social distancing requires people to avoid pubs, cinemas, restaurants, theatres, bars and clubs – in essence, it’s best to avoid gatherings in smaller public spaces.
+
+
+ 
+For those working, your employer should help support you to work from home if possible.
+
+The use of non-essential public transport is also one of the government’s guidelines, with people asked go avoid rush hour all together.
+
+Additionally, please refrain from having contact with anyone displaying the symptoms of a COVID-19 infection: fever and continuous cough.
+
+If you’re concerned about your health, please call your local GP centre.
+
+Do not attend the GP’s clinic in person unless otherwise instructed to.
+
+PHE recommend people with diabetes, and others with underlying health conditions listed above, to stringently follow these guidelines.
+
+The general public are also encouraged to follow these guidelines, but people with underlying health conditions must do so to protect themselves and others.
+
+In order to get food and medicines delivered to your doorstep, take advantage of online services.
+
+Or ask family, friends or neighbours – over the telephone – to assist you by dropping things off outside your door.
+
+PHE state: “The public sector, business, charities, and the general public are gearing up to help those advised to stay at home.
+
+
+ 
+“If you have care provided for you through the local authority or health care system, this will continue as normal.”
+
+The latest government guidelines state that those with serious health conditions must be “largely shielded from social contact for around 12 weeks” beginning from this weekend.
+Coronavirus has infected nearly 200,000 people around the world and the number is increasing daily. Countries are imposing strict measures to prevent further spread and resulting deaths, with the UK asking residents to “distance” themselves from one another.
+Coronavirus – COVID-19 – is a virus which scientists are still learning about, having first surfaced in December 2019.
+
+As such, a cure or vaccine are yet to be developed, which is why such strict tactics to avoid spread are in place.
+
+Around the world, nearly 8,000 people have died from coronavirus, mostly those who are elderly and had pre-existing conditions.
+
+While for some, symptoms can be mild, for others they can progress to pneumonia, organ failure and death.
+
+Read More: Tesco slashes opening times amid coronavirus outbreak
+
+Both flu and coronavirus tend to affect the whole body, so aches and tiredness are likely.
+
+Like with the flu, coronavirus can impact people differently – some feeling worse than others.
+
+Those with underlying health conditions, in particular, can develop worse symptoms. 
+
+Some people may carry coronavirus but feel no symptoms at all, but are still able to pass it on to others.
+Which symptoms mean you should stay home?
+The NHS advises you should stay at home if you have either
+
+a high temperature – you feel hot to touch on your chest or back
+a new, continuous cough – this means you’ve started coughing repeatedly
+Do not go to a GP surgery, pharmacy or hospital.
+
+You do not need to contact 111 to tell them you’re staying at home.
+
+Testing for coronavirus is not needed if you’re staying at home.
+
+How long should you self-isolate for?
+NHS advice states: 
+
+if you have symptoms, stay at home for 7 days
+if you live with other people, they should stay at home for 14 days from the day the first person got symptoms
+If you live with someone who is 70 or over, has a long-term condition, is pregnant or has a weakened immune system, try to find somewhere else for them to stay for 14 days.
+
+If you have to stay at home together, try to keep away from each other as much as possible.
+The World Health Organisation has outlined that sufferers of asthma are in the increased risk group, but there is no research currently to suggest they are more likely to contract the disease or suffer a more severe illness.
+However, as asthmatic people are generally more at risk with seasonal infections such as the flu and other respiratory infections such as pneumonia, they should still take all the necessary precautions such as social distancing and washing hands diligently.
+
+Getting a respiratory infection can make the symptoms of asthma much worse and make someone more likely to have an attack.
+
+Severe asthma is rare but difficult to control. If you are deemed very high risk because of this, the NHS will contact you over the coming week with instructions.
+such as some cases of the common cold (among other possible causes, predominantly rhinoviruses), and others that can be lethal, such as SARS, MERS, and COVID-19. Symptoms in other species vary: in chickens, they cause an upper respiratory tract disease, while in cows and pigs they cause diarrhea. There are yet to be vaccines or antiviral drugs to prevent or treat human coronavirus infections.
+
+Coronaviruses constitute the subfamily Orthocoronavirinae, in the family Coronaviridae, order Nidovirales, and realm Riboviria.[5][6] They are enveloped viruses with a positive-sense single-stranded RNA genome and a nucleocapsid of helical symmetry. The genome size of coronaviruses ranges from approximately 27 to 34 kilobases, the largest among known RNA viruses.[7] The name coronavirus is derived from the Latin corona, meaning "crown" or "halo", which refers to the characteristic appearance reminiscent of a crown or a solar corona around the virions (virus particles) when viewed under two-dimensional transmission electron microscopy, due to the surface covering in club-shaped protein spikes.
+Coronaviruses are a group of related viruses that cause diseases in mammals and birds. In humans, coronaviruses cause respiratory tract infections that can be mild,
+Discovery
+Coronaviruses were first discovered in the late 1960s.[8] The earliest ones discovered were an infectious bronchitis virus in chickens and two in human patients with the common cold (later named human coronavirus 229E and human coronavirus OC43).[9] Other members of this family have since been identified, including SARS-CoV in 2003, HCoV NL63 in 2004, HKU1 in 2005, MERS-CoV in 2012, and SARS-CoV-2 (formerly known as 2019-nCoV) in 2019. Most of these have involved serious respiratory tract infections.
+
+Etymology
+The name "coronavirus" is derived from Latin corona, meaning "crown" or "wreath", itself a borrowing from Greek ?????? kor?ne, "garland, wreath". The name refers to the characteristic appearance of virions (the infective form of the virus) by electron microscopy, which have a fringe of large, bulbous surface projections creating an image reminiscent of a crown or of a solar corona.[citation needed] This morphology is created by the viral spike peplomers, which are proteins on the surface of the virus.
+Coronaviruses are large pleomorphic spherical particles with bulbous surface projections.[10] The diameter of the virus particles is around 120 nm.[11] The envelope of the virus in electron micrographs appears as a distinct pair of electron dense shells.[12]
+
+The viral envelope consists of a lipid bilayer where the membrane (M), envelope (E) and spike (S) structural proteins are anchored.[13] A subset of coronaviruses (specifically the members of Betacoronavirus subgroup A) also have a shorter spike-like surface protein called hemagglutinin esterase (HE).[5]
+
+Inside the envelope, there is the nucleocapsid, which is formed from multiple copies of the nucleocapsid (N) protein, which are bound to the positive-sense single-stranded RNA genome in a continuous beads-on-a-string type conformation.[11][14] The genome size for coronaviruses ranges from approximately 27 to 34 kilobases.[7] The lipid bilayer envelope, membrane proteins, and nucleocapsid protect the virus when it is outside the host cell.[15]
+Coronaviruses are types of viruses that typically affect the respiratory tracts of birds and mammals, including humans. Doctors associate them with the common cold, bronchitis, pneumonia, severe acute respiratory syndrome (SARS), and COVID-19. They can also affect the gut.
+
+These viruses are typically responsible for common colds more than serious diseases. However, coronaviruses are also behind some more severe outbreaks.
+
+Over the last 70 years, scientists have found that coronaviruses can infect mice, rats, dogs, cats, turkeys, horses, pigs, and cattle. Sometimes, these animals can transmit coronaviruses to humans.
+
+Most recently, authorities identified a new coronavirus outbreak in China that has now reached other countries. It has the name coronavirus disease 2019, or COVID-19.
+Researchers first isolated a coronavirus in 1937. They found a coronavirus responsible for an infectious bronchitis virus in birds that had the ability to devastate poultry stocks.
+
+Scientists first found evidence of human coronaviruses (HCoV) in the 1960s in the noses of people with the common cold. Two human coronaviruses are responsible for a large proportion of common colds: OC43 and 229E.
+
+The name “coronavirus” comes from the crown-like projections on their surfaces. “Corona” in Latin means “halo” or “crown.”
+
+Among humans, coronavirus infections most often occur during the winter months and early spring. People regularly become ill with a cold due to a coronavirus and may catch the same one about 4 months later.
+
+This is because coronavirus antibodies do not last for a long time. Also, the antibodies for one strain of coronavirus may be ineffective against another one.
+
+COVID-19
+In 2019, the Centers for Disease Control and Prevention (CDC) started monitoring the outbreak of a new coronavirus, SARS-CoV-2, which causes the respiratory illness now known as COVID-19. Authorities first identified the virus in Wuhan, China.
+
+More than 78,191 people have contracted the virus in China. Health authorities have identified many other people with COVID-19 around the world, including in the United States. On January 31, 2020, the virus passed from one person to another in the U.S.
+
+The World Health Organization (WHO) have declared a public health emergency relating to COVID-19.
+
+Since then, this strain has been diagnosed in several U.S. residents. The CDC have advised that it is likely to spread to more people. COVID-19 has started causing disruption in at least 25 other countries.
+
+The first people with COVID-19 had links to an animal and seafood market. This fact suggested that animals initially transmitted the virus to humans. However, people with a more recent diagnosis had no connections with or exposure to the market, confirming that humans can pass the virus to each other.
+Symptoms of COVID-19
+Symptoms vary from person-to-person with COVID-19. It may produce few or no symptoms. However, it can also lead to severe illness and may be fatal. Common symptoms include:
+
+fever
+breathlessness
+cough
+It may take 2–14 days for a person to notice symptoms after infection.
+
+No vaccine is currently available for COVID-19. However, scientists have now replicated the virus. This could allow for early detection and treatment in people who have the virus but are not yet showing symptoms.
+
+The National Institutes of Health (NIH) suggest that several groups of people have the highest risk of developing complications due to COVID-19. These groups include:
+
+young children
+people aged 65 years or older
+women who are pregnant
+The CDC advise that although there have been reports of complications in young children, these are rare. COVID-19 most commonly produces mild symptoms in children.
+
+
+General symptoms of coronaviruses
+Cold- or flu-like symptoms usually set in from 2–4 days after a coronavirus infection and are typically mild. However, symptoms vary from person-to-person, and some forms of the virus can be fatal.
+
+Symptoms may include:
+
+sneezing
+runny nose
+fatigue
+cough
+fever
+sore throat
+exacerbated asthma
+Scientists cannot easily cultivate human coronaviruses in the laboratory unlike the rhinovirus, which is another cause of the common cold. This makes it difficult to gauge the impact of the coronavirus on national economies and public health.
+
+There is no cure for coronaviruses that cause symptoms resembling the common cold. Treatments include self-care and over-the-counter (OTC) medication. People can take several steps, including:
+
+resting and avoiding overexertion
+drinking enough water
+avoiding smoking and smoky areas
+taking acetaminophen for pain and fever
+using a clean humidifier or cool mist vaporizer
+A doctor can diagnose the virus responsible by taking a sample of respiratory fluids, such as mucus from the nose, or blood.
+
+Types
+Coronaviruses belong to the subfamily Coronavirinae in the family Coronaviridae.
+
+Different types of human coronaviruses vary in how severe the resulting disease becomes, and how far they can spread.
+
+Doctors currently recognize seven types of coronavirus that can infect humans.
+
+Common types include:
+
+229E (alpha coronavirus)
+NL63 (alpha coronavirus)
+OC43 (beta coronavirus)
+HKU1 (beta coronavirus)
+Rarer strains that cause more severe complications include MERS-CoV, which causes Middle East respiratory syndrome (MERS), and SARS-CoV, the virus responsible for severe acute respiratory syndrome (SARS).
+
+In 2019, a new strain called SARS-CoV-2 started circulating, causing the disease COVID-19.
+
+Transmission
+Limited research is available on how HCoV spreads from one person to the next.
+
+However, researchers believe that the viruses transmit via fluids in the respiratory system, such as mucus.
+
+Coronaviruses can spread in the following ways:
+
+Coughing and sneezing without covering the mouth can disperse droplets into the air.
+Touching or shaking hands with a person who has the virus can pass the virus between individuals.
+Making contact with a surface or object that has the virus and then touching the nose, eyes, or mouth.
+Some animal coronaviruses, such as feline coronavirus (FCoV), may spread through contact with feces. However, it is unclear whether this also applies to human coronaviruses.
+Coronaviruses will infect most people at some time during their lifetime.
+
+Coronaviruses can mutate effectively, which makes them so contagious.
+
+To prevent transmission, people should stay at home and rest while symptoms are active. They should also avoid close contact with other people.
+
+Covering the mouth and nose with a tissue or handkerchief while coughing or sneezing can also help prevent transmission. It is important to dispose of any tissues after use and maintain hygiene around the home.
+
+
+SARS
+SARS is a contagious disease that develops after infection by the SARS-CoV coronavirus. Typically, it leads to a life threatening form of pneumonia.
+
+During November 2002, the virus started in the Guangdong Province in southern China, eventually reaching Hong Kong. From there, it rapidly spread around the world, causing infections in more than 24 countries.
+
+SARS-CoV can infect both the upper and lower respiratory tracts.
+
+The symptoms of SARS develop over the course of a week and start with a fever. Early on in the condition, people develop flu-like symptoms, such as:
+
+dry coughing
+chills
+diarrhea
+breathlessness
+aches
+Pneumonia, a severe lung infection, usually develops. At its most advanced stage, SARS causes failure of the lungs, heart, or liver.
+
+According to the CDC, authorities marked 8,098 people as having contracted SARS during its outbreak. Of these, 774 infections were fatal. This equates to a mortality rate of 9.6%.
+
+Complications are more likely in older adults, and half of all people over 65 years of age who became ill did not survive. Authorities eventually controlled SARS in July 2003.
+
+However, it can still occur after infection with SARS-CoV.
+
+MERS
+MERS spreads due to the coronavirus known as MERS-CoV. Scientists first recognized this severe respiratory illness in 2012 after it surfaced in Saudi Arabia. Since then, it has spread to other countries.
+
+The virus has reached the U.S., while the largest outbreak outside the Arabian Peninsula occurred in South Korea in 2015.
+
+Symptoms of MERS include fever, breathlessness, and coughing. The illness spreads through close contact with people who already have an infection. However, all cases of MERS have links to individuals recently returning from travel to the Arabian Peninsula.
+
+A 2019 study on MERS found that the disease is fatal in 35.2% of people who contract it.
+An infection happens when a foreign organism enters a person’s body and causes harm.
+
+The organism uses that person’s body to sustain itself, reproduce, and colonize. These infectious organisms are known as pathogens. Examples of pathogens include bacteria, viruses, fungi, and prions. Pathogens can multiply and adapt quickly.
+
+Some infections are mild and barely noticeable, but others are severe and life-threatening, and some are resistant to treatment. Infection can be transmitted in a variety of ways.
+
+These include skin contact, bodily fluids, contact with feces, airborne particles, and touching an object that an infected person has also touched. How an infection spreads and its effect on the human body depend on the type of agent.
+
+The immune system is an effective barrier against infectious agents, but colonies of pathogens may grow too large for the immune system to fight. At this stage, infections become harmful.
+Bacteria, viruses, fungi, protozoa, parasites, and prions are different types of pathogen. They vary in their size, shape, function, genetic content, and how they act on the body.
+
+For example, viruses are smaller than bacteria, and they can enter a host and take over cells. However, bacteria can survive without a host.
+
+Treatment will depend on the type of pathogen. This article will focus on the most common and deadly types of infection: Bacterial, viral, fungal, and prion.
+Viral infections are caused by a virus. Millions of types of virus are thought to exist, but only 5,000 types have been identified. Viruses contain a small piece of genetic code. They are protected by a coat of protein and fat.
+
+Viruses invade a host and attach themselves to a cell. As they enter the cell, they release genetic material. The genetic material forces the cell to replicate, and the virus multiplies. When the cell dies, it releases new viruses, and these go on to infect new cells.
+
+Not all viruses destroy their host cell. Some of them change the function of the cell. In this way, viruses such as human papillomavirus (HPV) or Epstein-Barr virus (EBV) can lead to cancer by forcing cells to replicate in an uncontrolled way.
+
+They can also target certain age groups, such as infants or young children.
+
+A virus may remain dormant for a period before multiplying again. The person with the virus can appear to have recovered but may get sick again when the virus reactivates.
+
+Here are some examples of viral infections:
+
+the common cold, mainly caused by the rhinovirus, coronavirus, and adenovirus
+encephalitis and meningitis, caused by enteroviruses and the herpes viruses
+warts and skin infections, caused by the human papillomaviruses (HPV) and herpes simplex virus (HSV).
+gastroenteritis, caused by the novavirus
+Other viral conditions include:
+
+Zika virus
+human immunodeficiency virus (HIV)
+hepatitis C
+polio
+influenza
+Dengue fever
+H1N1 swine flu
+Ebola
+Middle East respiratory syndrome (MERS-CoV)
+Antiviral medications help in some cases. They can either prevent the virus from reproducing or boost the host’s immune system.
+
+Antibiotics are not effective against viruses. Using antibiotics against a virus will not stop the virus, and it increases the risk of antibiotic resistance.
+
+Most treatment aims to relieve symptoms while the immune system combats the virus without assistance from medicine.
+
+Bacterial infections
+Bacteria are single-celled microorganisms known as prokaryotes.
+
+There are estimated to be at least one nonillion bacteria on Earth. A nonillion is a one followed by 30 zeros. Much of Earth’s biomass is made up of bacteria.
+
+Bacteria take three main shapes:
+
+Spherical: These are usually the simplest to treat and are known as cocci.
+Rod-shaped: These are called bacilli.
+Spiral: Coiled bacteria are known as spirilla. If the coil of a spirillus is particularly tight, they are known as spirochetes.
+Bacteria can live in almost any kind of environment, from extreme heat to intense cold, and some can even survive in radioactive waste.
+
+There are trillions of strains of bacteria, and few of these cause diseases in humans. Some of them live inside the human body without causing harm, for example in the gut or airways. Some “good” bacteria attack “bad” bacteria and prevent them from causing sickness.
+
+However, some bacterial diseases are deadly.
+
+These include:
+
+cholera
+diphtheria
+dysentery
+bubonic plague
+pneumonia
+tuberculosis
+typhoid
+typhus
+Some examples of bacterial infections are:
+
+bacterial meningitis
+otitis media
+pneumonia
+tuberculosis
+upper respiratory tract infection
+gastritis
+food poisoning
+eye infections
+sinusitis
+urinary tract infections
+skin infections
+sexually transmitted diseases
+Bacterial infections can be treated with antibiotics, but some strains become resistant and can survive the treatment.
+A fungus is an often multi-cellular parasite that can decompose and then absorb organic matter using an enzyme.
+
+They almost always reproduce through the spreading of single-celled spores, and the structure of a fungus is normally long and cylindrical with small filaments branching from the main body. This structure is known as hypha.
+
+There are approximately 51 million species of fungus.
+
+Many fungal infections will appear in the upper layers of the skin, and some progress to the deeper layers. Inhaled fungal spores can lead to systemic fungal infections, such as thrush, or candidiasis. Systemic diseases affect the whole body.
+
+The body usually has a population of “good” bacteria that help to maintain the balance of microorganisms in the intestines, mouth, vagina, and other parts of the body.
+
+If enough “good” bacteria are destroyed, for example, by overusing antibiotics, fungi can grow and cause health problems for the host.
+
+Those with a higher risk of developing a fungal infection include people who:
+
+use strong antibiotics for a long time
+have a weakened immune system, due, for example, to HIV or AIDS, diabetes, chemotherapy treatment, and those who have undergone a transplant, as they take medications to prevent their body from rejecting the new organ
+Examples of fungal infections are:
+
+valley fever, or coccidioidomycosis
+athlete’s foot
+ringworm
+some eye infections
+A rash can be an indicator of a fungal infection of the skin.
+
+Prion disease
+A prion is a protein that contains no genetic material. It is normally harmless, but if it folds into an abnormal shape, it can become a rogue agent and affect the structure of the brain or other parts of the nervous system.
+
+Prions do not replicate or feed on the host but trigger abnormal behavior in the body’s cells and proteins.
+
+Prion diseases are rare, but they progress rapidly, and all are currently fatal.
+
+Prions cause degenerative brain diseases, such as:
+
+bovine spongiform encephalopathy (BSE), also known as mad cow disease
+Creutzfeldt-Jakob disease (CJD)
+Researchers have linked some cases of Alzheimer’s disease to prion infection.
+
+Other infections
+While the forms of infection mentioned above are the main types, there are others that can have an effect on the body.
+
+A single-celled organism with a nucleus can cause a protozoan infection. Protozoa commonly show features similar to animals, such as mobility, and can survive outside of the human body. They are most commonly transferred by contact with feces.
+
+When they enter the human body, protozoa can also cause infection. Amebic dysentery is an example of a protozoan infection.
+
+Helminths are larger, multicellular organisms that tend to be visible to the naked eye when full-grown. This type of parasite includes flatworms and roundworms. These are also able to infect the human body.
+
+Finally, ectoparasites such as mites, ticks, lice, and fleas can cause infection by attaching or burrowing into the skin.
+
+The term can also include blood-sucking arthropods, such as mosquitos, that transmit infection by consuming human blood.
+Causes
+The cause of an infection is said to be whichever type of organism has invaded the body.
+
+A particular virus, for example, will be the cause of a viral infection.
+
+The effects of an infection, such as swelling or a runny nose, occur as a result of the immune system fighting the invading organism. A wound filling with pus, for example, occurs when white blood cells rush to the site of an injury to combat foreign bacteria.
+
+Symptoms
+The symptoms of an infection depend on the organism responsible as well as the site of the infection.
+
+Viruses target specific cells, such as those in the genitals or upper respiratory tract. The rabies virus, for example, targets the nervous system. Some viruses target skin cells, causing warts. Others target a wider range of cells, leading to various symptoms. A flu virus can cause a runny nose, muscle aches, and an upset stomach.
+
+A person with a bacterial infection will often experience redness and heat, swelling, fever, pain at the site of infection, and swollen lymph glands. A bacterial infection is less likely to affect a wide area of the body than a viral one.
+
+A rash can be an indicator of a fungal infection of the skin.
+
+Common symptoms of prion diseases include brain damage, memory loss, and cognitive difficulties. They can also trigger the buildup of plaque in the brain, causing it to waste away.
+
+
+Prevention
+There is no single way to prevent all infectious diseases, but the following tips can reduce the risk of transmission:
+
+Wash your hands often, especially before and after preparing food and after using the bathroom.
+Clean surface areas and avoid leaving room-temperature food exposed when cooking.
+Receive any recommended vaccinations, and keep them up to date.
+Only take antibiotics when prescribed, and be sure to complete any recommended course even if symptoms improve earlier than anticipated.
+Disinfect rooms where there may be high concentrations of bacteria, such as the kitchen and bathroom.
+Practice safe sex by receiving regular STD checks, using condoms, or abstaining altogether.
+Avoid sharing personal items such a toothbrushes, combs, razorblades, drinking glasses, and kitchen utensils.
+Follow a doctor’s advice about traveling or working when you are ill, as you could infect others.
+A healthy, active lifestyle can help keep the immune system strong and able to defend the body against different kinds of infection.
+The common cold is a viral infectious disease that infects the upper respiratory system. It is also known as acute viral rhinopharyngitis and acute coryza.
+
+It is the most common infectious disease in humans and is mainly caused by coronaviruses or rhinoviruses.
+
+Because there are more than 200 viruses that cause the common cold, the human body can never build up resistance to all of them. This is why colds are so common and often return. According to the CDC (Centers for Disease Control and Prevention), adults get 2–3 colds per year, and children may have up to 12 per year.
+
+The common cold is contagious; it can be spread by air droplets from coughs and sneezes and by touching infected surfaces. It is contagious from 1–2 days before symptoms begin until the symptoms have stopped.
+Fast facts on colds
+Here are some key points about colds. More detail and supporting information is in the main article.
+
+Common cold symptoms include dry or sore throat, blocked or runny nose, and sneezing.
+Around a quarter of people do not experience symptoms when infected with a cold.
+Up to half of common colds are caused by a group of viruses referred to as rhinoviruses.
+Complications of the common cold include acute bronchitis and pneumonia.
+People with lung conditions such as asthma and chronic obstructive pulmonary disease are more vulnerable to colds than other people.
+The symptoms of the common cold are the body’s reaction to the cold virus. It triggers the release of chemicals, making the blood vessels leak, causing the mucous glands to work harder.
+
+The most common symptoms of a cold are:
+
+dry throat
+sore throat
+cough
+mild fever
+sneezing
+hoarse voice
+blocked nose
+mild headache
+Rarer symptoms of a cold include:
+
+muscle aches
+shivering
+pink eye
+weakness
+reduction in appetite
+extreme exhaustion
+Some people do not suffer any symptoms when infected with the cold virus, perhaps because their immune system reacts differently to the virus. Sometimes, bacteria can infect the ears or sinuses during this viral infection — this is known as a secondary bacterial infection — and can be treated with antibiotics.
+
+Causes
+The common cold can be caused by more than 200 different viruses. Around 50 percent of colds are caused by rhinoviruses, other cold-causing viruses include:
+
+human parainfluenza virus
+Human metapneumovirus
+coronaviruses adenovirus
+human respiratory syncytial virus
+enteroviruses
+When a virus manages to overpower the body’s immune system, infection occurs. The first line of defense is mucus, which is produced in the nose and throat by the mucus glands. This mucus traps anything inhaled, such as dust, viruses, and bacteria. Mucus is a slippery fluid that the membranes of the nose, mouth, throat, and vagina produce.
+
+When the mucus is penetrated by the virus, the virus then enters a cell, the virus takes control and uses the cell’s machinery to manufacture more viruses, and these viruses then attack surrounding cells.
+
+
+Some people are more susceptible to the common cold than others, including:
+
+children under 6
+older adults
+individuals with weak immune systems
+smokers
+Anyone who has been around infected individuals is also at risk; for instance on an airplane or at school. Also, people are more susceptible to colds in fall and winter, but they can occur at any time of the year.
+
+Complications
+Being infected with the common cold can lead to the following complications:
+
+Acute Bronchitis
+This occurs when the bronchi (small tubes) in the lungs are inflamed as a result of either a bacterial or viral infection.
+
+Antibiotics can only be used to treat this if the infection is bacterial; if it is viral, it is common just to treat the symptoms until the infection goes away with time since antibiotics do not effect a virus.
+
+A sample of the sputum may be taken and examined under a microscope to determine what the levels of bacteria are. Symptoms include wheezing, shortness of breath, coughing, and sputum.
+
+Pneumonia
+This is another condition where the lungs are inflamed, but this time, it is due to the alveoli (tiny air sacs) filling with fluid.
+
+Pneumonia can be caused by bacteria or viruses. However, the common cold virus does not cause pneumonia. If pneumonia occurs as a complication of a cold, it is most likely to be bacterial. Antibiotics may be prescribed. Symptoms include chest pain, cough, fever, and breathing difficulties.
+
+Acute Bacterial Sinusitis
+This is when bacteria infect the sinuses. Nasal and oral decongestants can be used to manage symptoms; however, antibiotics are required to treat the condition and to prevent further infection, which could lead to other conditions, such as bacterial meningitis in rare cases.
+
+Symptoms include headache, aching sinuses, and nasal discharge.
+
+Other complications of the common cold include:
+
+bronchiolitis
+croup
+otitis media (middle ear infection)
+strep throat
+People with the following conditions can be vulnerable to the common cold:
+
+Chronic obstructive pulmonary disease (COPD) – this includes both emphysema and chronic bronchitis. The common cold can exacerbate emphysema or chronic bronchitis symptoms, leading to increased coughing and shortness of breath. Sometimes, a bacterial infection can occur which leads to fever; antibiotics may be prescribed.
+
+Asthma – asthma attacks can be triggered by a cold, especially in children.
+As there are so many viruses that can cause a cold, it is difficult to develop a vaccine.
+
+However, there are some precautions that can help avoid catching the common cold. These include:
+
+Avoid close contact with someone infected with a cold.
+Eat plenty of vitamin-rich fruit and vegetables to help keep the immune system strong.
+When sneezing or coughing, make sure it is done into a tissue. Discard the tissue carefully and wash your hands.
+If you sneeze into your hands, make sure you wash them with soap and water immediately.
+If you have no tissues or a handkerchief, cough into the inside (crook) of your elbow rather than your hands.
+Wash your hands regularly; cold viruses can be transmitted from one person to another by touch. In fact, more germs are passed by shaking hands than by kissing.
+Keep surfaces in your home clean — especially in the kitchen or bathroom.
+Avoid touching your face, especially your nose and mouth.
+
+Treatments
+It is important to realize that both antibiotics and antiviral medications are ineffective against most viruses that cause the common cold. A cold normally lasts up to 10 days; however, some symptoms can stay as long as 3 weeks.
+
+Although there is no real way of treating or curing a common cold, the following measures may help ease the symptoms:
+
+Drink plenty of fluids and keep well hydrated, being dehydrated when infected with a cold can make symptoms worse.
+Get plenty of bed rest; it is important to get as much sleep/rest as possible while the immune system is fighting off the virus.
+Take aspirin, acetaminophen, or ibuprofen to relieve headache or fever. Do not give aspirin to children under 16.
+Some people find that inhaling steam helps ease the symptoms of nasal congestion.
+Aspirin, acetaminophen, and ibuprofen are available for purchase online.
+
+Find out more about how to treat and manage a cold: How to treat a cold.
+
+Is it a cold or is it flu?
+As symptoms can sometimes be quite similar, it may be difficult to know whether you have the flu or a bad cold. Generally, flu symptoms are felt sooner than cold symptoms. Flu symptoms are also more intense. People with the flu feel weak and tired for up to 2–3 weeks. As the fever comes and goes, there will be periods of chills and sweats (cold sweats). Their muscles will ache, and they will have a runny or bunged-up nose, headache, and sore throat.
+
+Treatment is often with antivirals. Immunization (flu shot, or flu mist) is available to aid in prevention. Please see “Flu: Causes, symptoms and treatments” for further information.
+
+Cold versus flu symptoms
+The following symptoms are common with flu but not always with a cold.
+
+Headache: Uncommon in cold but possible. More likely in flu.
+Tiredness and weakness: Occasionally, but milder than with flu.
+Extreme tiredness: Uncommon.
+Aches and pains: Much milder than with flu.
+Temperature/Fever: Unusual, generally higher fevers with flu.
+Sneezing: A common cold symptom.
+Stuffed up or runny nose: Quite common.
+Coughing: Occasionally, but not as severe as with flu.
+Dry or sore throat: Common.
+Treatment only provides temporary relief of symptoms, and good hygiene is the best prevention.
+The recent coronavirus outbreak began in Wuhan, China, in December 2019.
+Known as SARS-CoV-2, the virus has resulted in more than 200,000 infections.
+COVID-19 has now been reported on every continent except Antarctica.
+The World Health Organization (WHO) publish their latest confirmed numbers on this situation dashboard every day.
+To read our feature article answering some of the most common questions and concerns surrounding COVID-19, click here.
+03/18/2020 13:45 GMT — The number of COVID-19 cases worldwide surpassed 200,000
+03/18/2020 12:18 GMT — Confusion about taking ibuprofen
+
+Messages on social media have warned people to avoid using ibuprofen for treating the symptoms of COVID-19. 
+
+Experts in the United Kingdom explain that ibuprofen might lead to side effects or make symptoms worse, based on research around respiratory illness. 
+While there has not been any specific research around COVID-19 and ibuprofen yet, they recommend sticking to paracetamol/acetaminophen unless a healthcare professional advises otherwise. 
+03/18/2020 08:26 GMT — Study concludes SARS-CoV-2 can persist on surfaces for hours
+
+A recent study, published in The New England Journal of Medicine, investigates how long the novel coronavirus can remain stable on a variety of surfaces.
+
+They find that it can remain viable on stainless steel and plastic for up to 2–3 hours, in aerosols for up to 3 hours, on copper for 4 hours, and on cardboard for 24 hours.
+03/18/2020 07:35 GMT – Why does SARS-CoV-2 spread so easily?
+
+A recent feature, published by Medical News Today, asks why the novel coronavirus spreads so efficiently. 
+
+
+The article investigates how specific structural components of the virus interact with receptors on human cells. The feature also asks what these details mean for those who are working to create treatments and vaccines.
+A new study, led by researchers at the University of Texas at Austin, calculated the “serial interval” of SARS-CoV-2, the virus that causes COVID-19. 
+
+The term serial interval refers to “the duration between symptom onset of a primary case and symptom onset of its secondary cases.”
+
+The new study, which will appear in the journal Emerging Infectious Diseases, found that the average serial interval of COVID-19 is 4 days. 
+
+Study co-author Lauren Ancel Meyers, a professor of integrative biology at UT Austin, explains what this means. 
+
+“Ebola, with a serial interval of several weeks, is much easier to contain than influenza, with a serial interval of only a few days. Public health responders to Ebola outbreaks have much more time to identify and isolate cases before they infect others,” she says.
+
+“The data suggest that this coronavirus may spread like the flu. That means we need to move quickly and aggressively to curb the emerging threat.”
+
+The study also found that over 1 in 10 COVID-19 cases occurred as a result
+ of being in contact with a person who was carrying the virus but showing no symptoms.
+On January 19—a week before the Lunar New Year—Tommy Tang left Shenzhen with his girlfriend to visit her family in Wuhan for the holiday. They had heard of the novel coronavirus (now officially known as COVID-19), but as far as they knew, it was localized to a small area. The local government had assured people that it would only affect those who visited a specific food market and contracted it directly from wild animals.
+
+But on the night of the 20th, Dr. Zhong Nanshan—the same doctor who first revealed the extent of SARS in 2003—went on national TV to correct the record. The virus could spread from person to person, he said. Panic ensued. Overnight, everyone in the city began wearing masks. Tang and his girlfriend realized it was no longer safe to stay. They cancelled their plans and left on a train the next day. Less than 48 hours later, the city went into lockdown.
+
+Back in Shenzhen, they placed themselves in a 14-day quarantine, leaving their apartment only once a day, with masks, to take out the trash. Tang, whose family also lives in Shenzhen, couldn’t join them to celebrate the holiday. He wished his mother Happy New Year through his apartment door peephole. He ordered everything from food to soap and toilet paper through delivery apps like Meituan Waimai and Dada-JD Daojia. On the third day of quarantine, Tang went into a panic when he opened the apps to see everything completely sold out.
+
+“There was nothing there—there were zero vegetables,” he says. “But compared to Wuhan, we have it extremely easy,” he adds.
+
+
+More than anything, the greatest source of anxiety has been the tortuous process of watching the news unfold on social media. It has mirrored and amplified his fears to levels he’s never experienced before. He and his girlfriend have suffered insomnia and multiple panic attacks. They are terrified of contracting the virus and about her family’s well-being.
+
+“Honestly, it’s really hard to describe what happened during these 14 days,” he says. “There’s nothing to do but read the news, and the news gets worse every day. That’s the hardest part for the people outside.”
+
+On February 2, the World Health Organization dubbed the new coronavirus “a massive ‘infodemic,’” referring to ”an overabundance of information—some accurate and some not—that makes it hard for people to find trustworthy sources and reliable guidance when they need it.” It’s a distinction that sets the coronavirus apart from previous viral outbreaks. While SARS, MERS, and Zika all caused global panic, fears around the coronavirus have been especially amplified by social media. It has allowed disinformation to spread and flourish at unprecedented speeds, creating an environment of heightened uncertainty that has fueled anxiety and racism in person and online.
+
+For its part, the WHO has attempted to address the issue by partnering with Twitter, Facebook, Tencent, and TikTok to clamp down on misinformation. It recently launched a Google SOS alert, for example, to push WHO information to the top of people’s search results for coronavirus-related queries. It has also been working with Facebook to target specific populations and demographics with ads that provide important health information. It has even gone so far as to reach out to influencers in Asia to try to keep disinformation at bay.
+
+Social-media and health organizations have also engaged in efforts of their own. TikTok has tried to remove purposely misleading videos, saying in a statement that it would “not permit misinformation that could cause harm to our community or the larger public.” Facebook has also worked to scrub posts with dubious health advice, and Tencent, the owner of WeChat has used its fact-checking platform to scrutinize coronavirus rumors circulating online.
+
+But the sheer avalanche of content has overwhelmed the coordinated efforts to clear out all the noise. This in turn has created a breeding ground for xenophobic content. Racist memes and slurs have proliferated on TikTok and Facebook. Some teens have even gone about faking a coronavirus diagnosis to earn themselves more social-media clout. This online toxicity has also translated into in-person interactions. Asians have faced outright racism and harassment, and Chinatowns and Chinese restaurants have seen business lag.
+
+Similar levels of discrimination have been reported (link in Chinese) in China against people from Wuhan and the larger Hubei province. In some cases, those who are stranded because they were traveling during the lockdown are being denied hotel rooms once their national IDs reveal their hometowns.
+
+But as much as social media has perpetuated disinformation, it has been an important source of verified information as well. Journalists around the world have used Chinese social media to gain a more accurate picture of the situation and gathered and archived (link in Chinese) verified reports for posterity. The volume of personal anecdotes and reports that circulate every day about the ground truth in China has also pressured the government to release more accurate information about the crisis.
+
+In the early days, for example, several doctors took to social media to raise alarms about the severity of the situation. Though the government swiftly reprimanded them and moved to control the flow of information, their warnings went viral, likely accelerating the government to be more forthcoming about the reality. Later, when one of the doctors, Li Wenliang died from the sickness, Chinese platforms lit up with an outpouring of anguish and rage, questioning the government’s decision and authority. The discontent was so pervasive that it thwarted censors. 
+
+Such social-media activity could also be mined in the future to catch and track future disease outbreaks. Several services are already using these techniques to help public health officials monitor the coronavirus’s progression. Raina MacIntyre, a biosecurity expert at the University of New South Wales, published an article in January in the journal Epidemiology that found that hot spots of tweets could be good indicators of how a disease spreads. “Especially where there is censorship or lack of resources for disease reporting,” she says, this could help organizations react even earlier during a viral outbreak, stopping them before they become global health emergencies.
+
+In a strange way, social media has also become a space for collective grieving. On Weibo and WeChat, stories of despair and kindness abound. Alongside expressions of fear from people stuck in quarantine and from patients unable to receive treatment are also anecdotes of people donating (link in Chinese), volunteering, and helping one another in unexpected and generous ways.
+
+“Those personal stories—you don’t read them a lot in international coverage of the outbreak,” says Shen Lu, a journalist based in Boston who has been following Chinese social-media activity around the coronavirus closely. But they have become an important way for people to follow the crisis both within and outside China, serving as a form of catharsis and giving people, amid all the panic and toxicity, a small ray of hope.
+ast year, in late December, Li Wenliang, a young ophthalmologist, wrote 150 of his friends from medical circles. He said he had seen a number of cases of viral pneumonia come into the Wuhan Central Hospital, where he worked, and that they all seemed linked to the Huanan Seafood Market, the main source for restaurants in Wuhan, a metropolis of 11 million people, and the most important city of the central regions of China. Five weeks later, Li was dead, at 34, killed by the same virus about which he warned his friends in the same hospital that had warned him not to tell people what was happening.
+
+An online tidal wave of reflection and grief that I’ve never seen before resulted. My own personal WeChat feed was flooded with comments and tributes to him, ranging from poems to cartoons of him eating his favorite meal of fried chicken. The rage was directed largely at Wuhan city officials. After Li had written to his friends, he had been called into a police station, where he was forced to sign an unusual document designed to coerce him into silence. Later, he spoke to Chinese private media company Caixin, shedding light on the unfolding epidemic which, having engulfed first Wuhan and its surroundings, is now front page news across the world. Li became, as a result, the face and name of a censorship phenomenon involving a number of other doctors.
+Rightly, people are in uproar about China’s security forces blocking Chinese doctors from sharing crucial public health information. To date, the coronavirus, a respiratory illness that begins with a fever before escalating to attack the lungs, has killed more than 1,300 people. Is Li a representative case of the failings of Chinese government censorship? Yes. Being punished for sharing information about a virus among medical professionals changes the incentives for everyone wishing to report the virus, cooling relations and slowing information.
+
+But did censoring Li and others make the outbreak of the virus much worse, leading to many more deaths, as many Chinese people believe? Not so much. The censorship, and its subsequent chilling effect, is not what is killing people: What is a far more proximate cause of these deaths is the incompetence of the Wuhan government and the central health authorities in the two weeks that followed the censorship. They failed to prepare any sort of health system response, and the Wuhan authorities were preoccupied by a major political conference. When the virus took hold and became an epidemic, the health system was swamped. People were unable to access health services, and in some cases, people were contracting the virus when already sick or weak, making them more likely to succumb.
+While Li and others were being censored, however, health authorities were not only active but effective. On December 29, the local Wuhan Centre for Disease Control (CDC; China has a centralized system whereby all hospital entries are available to a CDC review team) notified its state and federal superiors that there was a suspected outbreak of a SARS-like illness. At the end of the following day, as doctors sent messages to their WeChat groups, the Wuhan health bureau sent all hospitals in the city an “urgent notification” to report on any possible cases. It did not, however, declare the disease to be the highest risk (a category 1), nor tell doctors to wear protective clothing or masks. The next day, an expert team from the central government arrived in Wuhan and took samples for testing. Within a day, they had shut down the most likely source of the virus, a major food market, and it wasn’t long before a number of labs around the country managed to isolate the virus from the samples. On January 5, the World Health Organization (WHO) was notified and the results were soon posted to open source databases worldwide.
+
+There can be no complaints about any of these actions. They are probably what the WHO had in mind when they fulsomely praised China’s response to the epidemic. But, these actions all occurred at the same time that local police were sanctioning doctors for talking among themselves about the virus, reducing the flow of information among professionals. More importantly, government actions in the subsequent fortnight were reprehensible. In mid January, Wuhan city and its higher-level provincial government Hubei each held their most important political meetings of the year. Wuhan media covered these meetings, yet there was only one front-page story on the virus. The Wuhan health ministry made a number of false statements about the illness in its press conferences. It said that there were no new cases when there were, and also told the public that there had been no cases of medical personnel becoming infected, even though doctors, including Li, were already manifesting symptoms and quarantining themselves.
+The Wuhan authorities knew that the epidemic was of grave concern, yet did not notify the public nor begin preparing. It seems most likely that they were completely occupied by the two political meetings, which took up all government and Party resources, and killed any air time for public health announcements—thus negligently wasting two vital weeks to prepare for any possible outbreak. For example, they lacked the capacity to test for the virus at the necessary scale, making only 200 test kits per day, and sending early tests off to Beijing for results. On January 20, Xi Jinping got involved and the vast Chinese bureaucracy kicked into gear, shutting down a whole province. Local governments were told to take any measures necessary. For the past three weeks, we have seen the overreaction: airports and travel grinding to a standstill, most of China working from home (around half of China’s citizens are unable to move), and various countries closing their borders to Chinese nationals.
+
+This cycle—slow identification of the problem, central involvement and prioritization, all-out mobilization—is a familiar pattern of Chinese crisis management. That’s because China is not so much one government as 3,000 local governments, united by their membership in China’s ruling Communist Party. Each of these local governments must have a single person able to be held accountable for whatever happens on their watch; the performance of this individual—and their standing committee, usually made up of 10 to 12 other leaders—is measured on thousands of indicators. Local satraps pick which indicators to focus on. They know that their superiors will take the credit for anything that goes well, and they will take the blame for failures. Occasionally, such as right now, top leaders send out signals so powerful that all local leaders know to drop everything and focus only on that sole objective.
+
+Running China like this, by call-and-response, makes it easier for the top leaders to stay in power. China has five levels of government, and should something go wrong, one can always say that it was caused by a failure to properly heed or follow central instructions. Blame is local, glory national. The censoring of doctors will be painted as solely a failing of local policing, the two weeks of inaction and lack of notification due to decay in Wuhan’s politics. And China’s leaders will throw every resource they have at stopping the epidemic, knowing that inaction would look worse than incompetence. Indeed, the danger now is that the pendulum has swung too far toward overreaction rather than trusting appropriate public health measures. When the call is strong enough, everyone responds, and the fear is that the economy and also the health system will become paralyzed. The cure may be worse than the disease.
+
+It is perhaps likely that with freer speech, and faster information sharing among doctors, some of the harm the virus caused could have been diminished. A stronger public health system and government response would almost certainly have meant that the virus was less damaging. Both things would be boons to Chinese society. And Chinese people themselves seem to recognize this. In the aftermath of Li’s death, many posted a line from the poet Lu Xun, which, roughly translated, means that those stuck in a storm need to make sure those fetching firewood for them don’t freeze to death. What wasn’t posted, but instantly springs to mind, was the succeeding line, which says that those who clear a path toward freedom should not be forced into dire straits by difficult times. While the storm of this epidemic will pass, there is much to be done to protect the next generation of people fetching the wood.
+As the coronavirus continues to spread around the world, a flurry of early research is drawing a clearer picture of how the pathogen behaves and the factors that will determine how much it can be contained.
+
+It seems to spread very easily, making containment efforts difficult.
+
+The scale of an outbreak depends on how quickly and easily a virus is transmitted from person to person.
+
+The new coronavirus seems to spread very easily, especially in homes, hospitals, churches, cruise ships and other confined spaces. It is much more contagious than SARS, another coronavirus that circulated in China in 2003 and sickened about 8,000 people.
+
+The pathogen can travel through the air, enveloped in tiny respiratory droplets that are produced when a sick person breathes, talks, coughs or sneezes.
+
+These droplets fall to the ground within a few feet. That makes the virus harder to get than pathogens like measles, chickenpox and tuberculosis, which can travel 100 feet through the air. But it is easier to catch than H.I.V. or hepatitis, which spread only through direct contact with the bodily fluids of an infected person.
+Research is still in its early stages, but some estimates suggest that each person with the new coronavirus could infect between two and four people without effective containment measures. That is enough to sustain and accelate an outbreak, if nothing is done to reduce it.
+
+Here’s how that works. In the animation below, a group of five infected people could spread the virus to about 368 people over just five cycles of infection.
+Compare that with a less contagious virus, like the seasonal flu, which can be slowed by vaccines and immunity from past epidemics. People with the flu tend to infect 1.3 other individuals, on average. The difference may seem small, but the result is a striking contrast: Only about 45 people might be infected in the same scenario.
+The transmission numbers of any disease aren’t set in stone. They can change depending on how much people interact at school, work or religious gatherings. When global health authorities methodically tracked and isolated people infected with SARS in 2003, they were able to bring the average number each sick person infected down to 0.4, enough to stop the outbreak.
+
+Health authorities around the world are expending enormous effort trying to repeat that. But the number of people infected globally is rising quickly, with large clusters of cases in Italy, Iran, Japan and South Korea.
+
+The virus’s high rate of transmission means containment measures — such as wearing masks, keeping a distance from infected people and implementing quarantines if people are exposed — must block more than 60 percent of transmissions in order to effectively control the outbreak, which is difficult.
+
+Coronavirus cases have far surpassed the rate of new SARS cases in 2003:
+It’s hard to know yet. But the fatality rate may be more
+than 1 percent, much higher than the seasonal flu.
+
+This is one of the most important factors in how damaging the outbreak will be, and one of the least understood.
+
+It’s tough to assess the lethality of a new virus. The worst cases are usually detected first, which can skew our understanding of how likely patients are to die. People with mild illness may never visit a doctor, and there may be more cases than China is counting, leading to a lower death rate than initially thought.
+
+“It’s easier to miss mild cases that resolve by themselves than it is to miss dead people,” said Dr. Angela Rasmussen, a virologist at Columbia University’s Mailman School of Public Health.
+
+But early research indicates the virus may be significantly more deadly than the seasonal flu, which kills roughly one in 1,000 people. An analysis of outcomes for more than 44,000 confirmed patients in China found that roughly one in 50 died. Eighty-one percent of patients infected with the new coronavirus had mild illness, 14 percent had severe illness and 5 percent had critical illness, according to the study.
+
+The pathogen is considerably less dangerous than other coronaviruses, such as MERS, which kills about a third of people who become infected, and SARS, which kills about 1 in 10. All of the diseases appear to latch on to proteins on the surface of lung cells, but MERS and SARS seem to be more destructive to lung tissue.
+
+Here’s how the new coronavirus compares with other infectious diseases:
+The chart above uses a logarithmic vertical scale: data near the top is compressed into a smaller space to make the variation between less-deadly diseases easier to see. Diseases near the top of the chart are much deadlier than those in the middle.
+
+Older people are much more likely to face serious illness than younger people, the analysis of Chinese patients found. In that study, nearly 15 percent of infected people over 80 died, along with 8 percent of people in their 70s. Very few young children seem to be falling ill, a pattern seen with some other respiratory viruses.
+
+Those numbers could be reduced as more cases are discovered. And it is possible that death rates at the center of the outbreak in China, where hospitals were overwhelmed, will end up higher than elsewhere in the world.
+
+Pathogens can still be very dangerous even if their fatality rate is low. Even though influenza has a case fatality rate below one per 1,000, roughly 200,000 people end up hospitalized with the virus each year in the United States, and about 35,000 people die.
+The time it takes for symptoms to appear after a person is infected can be vital for prevention and control. Known as the incubation period, this time can allow health officials to quarantine or observe people who may have been exposed to the virus. But if the incubation period is too long or too short, these measures may be difficult to implement.
+
+Some illnesses, like influenza, have a short incubation period of two or three days. People may be shedding infectious virus particles before they exhibit flu symptoms, making it almost impossible to identify and isolate people who have the virus. SARS had an incubation period of about five days, and it took four or five days after symptoms started before sick people could transmit the virus. That gave officials time to stop the virus and effectively contain the outbreak.
+
+Officials at the Centers for Disease Control and Prevention estimate that the new coronavirus has an incubation period of two to 14 days. When symptoms do start to appear, they can include fever, cough and difficulty breathing or shortness of breath.
+
+But mild cases may simply resemble the flu or a bad cold, and people may be able to pass on the new coronavirus even before they develop obvious symptoms.
+
+“That concerns me because it means the infection could elude detection,” said Dr. Mark Denison, an infectious disease expert at Vanderbilt University in Nashville, Tenn.
+Wuhan was a difficult place to contain an outbreak. It has 11 million people, more than New York City. On an average day, 3,500 passengers take direct flights from Wuhan to cities in other countries. These cities were among the first to report cases of the virus outside China.
+Wuhan is also a major transportation hub within China, linked to Beijing, Shanghai and other major cities by high-speed railways and domestic airlines. In October and November of last year, close to two million people flew from Wuhan to other places within China.
+China was not nearly as well connected in 2003 during the SARS outbreak. Large numbers of migrant workers now travel domestically and internationally — to Africa, other parts of Asia and Latin America, where China is making an enormous infrastructure push with its Belt and Road Initiative. This travel creates a high risk for outbreaks in countries with health systems that are not equipped to handle them, like Zimbabwe, which is facing a worsening hunger and economic crisis.
+
+Over all, China has about four times as many train and air passengers as it did during the SARS outbreak:
+In January, China took the unprecedented step of imposing travel restrictions on tens of millions of people living in Wuhan and nearby cities. Some experts questioned the effectiveness of the lockdown, and Wuhan’s mayor acknowledged that five million people had left the city before the restrictions began, in the run-up to the Lunar New Year.
+
+“You can’t board up a germ. A novel infection will spread,” said Lawrence O. Gostin, a law professor at Georgetown University and director of the World Health Organization Collaborating Center on National and Global Health Law. “It will get out; it always does.”
+
+Several countries, including Italy, Iran and South Korea, are already discovering clusters of cases with no clear ties to the outbreak's epicenter in China. On Feb. 26, the C.D.C. also reported what it called possibly the first case of community spread in the United States.
+World Health Organization officials have praised China’s aggressive response to the virus — walling off cities, forcing people to stay home and tracking large numbers of contacts of infected people — saying that it helped curb the spread of more cases. The daily tally of new cases there peaked and then plateaued between Jan. 23 and Feb. 2, and has steadily declined since.
+
+Many countries have also enacted travel restrictions and bans, closing their doors to people from countries with sustained transmission of the virus. Governments around the world have been screening incoming passengers for signs of illness. Airlines and cruise lines have canceled service to many Asian destinations.
+
+Critics fear those measures won’t be enough.
+
+The rate at which transmissions are spreading in several countries makes it seem “unlikely that containment will be a strategy that will completely stop this virus,” said Clarence Tam, an assistant professor of infectious diseases at the School of Public Health at the National University of Singapore.
+
+The ability of nations to prepare for the arrival of coronavirus cases will depend on the strength of their health systems; their capacity to test, provide hospital beds, drugs and respirators for severely ill patients; and their effectiveness in communicating to the public.
+There are no approved treatments for any coronavirus diseases, including the new coronavirus.
+
+Several drugs are being tested, and some initial findings are expected soon. An antiviral medication called remdesivir appears to be effective in animals, and it was used to treat the first American patient in Washington State. Researchers are now testing the drug in clinical trials in the United States, China and other countries.
+
+Several groups are also working to develop a vaccine for the virus in order to stop the spread of the disease. But vaccines take time.
+
+After the SARS outbreak in 2003, it took researchers about 20 months to get a vaccine ready for human trials. (The vaccine was never needed, because the disease was eventually contained.) By the time of the Zika outbreak in 2015, researchers had brought the development timeline down to six months.
+
+Now, they hope that work from past outbreaks will help cut the timeline even further. Researchers have already studied the genome of the new coronavirus and found the proteins that are crucial for infection. Scientists from the National Institutes of Health, in Australia and at least three companies are working on vaccine candidates.
+
+“If we don’t run into any unforeseen obstacles, we’ll be able to get a Phase 1 trial going within the next three months,” said Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases.
+
+Dr. Fauci cautioned that it could still take months, and even years, after initial trials to conduct extensive testing that can prove a vaccine is safe and effective. In the best case, a vaccine may become available to the public a year from now.
+hina is in the midst of an epidemic caused by an emergent strain of coronavirus. The World Health Organization formally named the disease COVID-19, and the Coronavirus Study Group named the underlying virus severe acute respiratory syndrome coronavirus 2, or SARS-CoV-2. A cluster of unusual pneumonia patients was first detected in late December, and the novel coronavirus was officially identified as the reason on January 8. To date, it has caused over 78,000 confirmed cases and 2,445 confirmed deaths, primarily in the Hubei province of China. It has spread to 29 countries or territories so far, including the United States, which has 14 diagnosed cases, and an additional 21 cases in individuals who were flown back to the U.S. after infection. One U.S. citizen has died of the virus in Wuhan, China. Naturally, the disease has left a lot of questions in its wake.
+
+Have we ever seen anything like this before?
+Yes. In fact, SARS-CoV-2 is the third pathogenic novel coronavirus to emerge over the past two decades. The first, discovered in 2003 and named SARS-CoV, caused SARS, a serious and atypical pneumonia. The second, MERS-CoV, emerged a decade later in the Middle East and caused a similar respiratory ailment called Middle East respiratory syndrome (MERS). Since its identification, 2,494 cases of MERS-CoV infection and nearly 900 deaths have been documented. The SARS-CoV epidemic proved larger but less deadly, with approximately 8,000 cases and nearly 800 deaths.
+
+Where do these viruses come from?
+MERS-CoV and SARS-CoV appear to originate in animals, and the same is likely true of SARS-CoV-2. This makes them zoonoses, diseases that can jump between humans and other animals. MERS-CoV and SARS-CoV were originally bat viruses that spread to an intermediate animal (camel and civet cat, respectively), which then exposed humans to the viruses. Genetic analysis of SARS-CoV-2 sequences shows that their closest genetic relatives appear to be bat coronaviruses, with the role of intermediate species possibly played by the pangolin, an endangered species trafficked in China for its scales and meat. There are four coronaviruses that cause colds in humans — known as HCoV-229E, HCoV-NL63, HCoV-OC43 and HCoV-HKU1 — and these also seem to have zoonotic origins.
+
+How do these viruses accomplish these inter-species jumps?
+While the specifics differ, the mechanism relies on the same fundamental premise: access and ability. Can a virus reach the cells of its host? And can the virus’s proteins recognize and bind to structures, known as receptors, on those cells? If so, that’s all it takes — the virus can now enter the cell and begin to replicate, infecting the host.
+
+SARS-CoV-2 is the third pathogenic novel coronavirus to emerge over the past two decades.
+
+Coronaviruses have become quite adept at figuring out how to use these receptors to gain entry to their host’s cells. The viruses use a surface glycoprotein — a protein with sugars attached — called the spike (S) protein to bind to host cells. (This protein gives the virus a crownlike appearance, which is where the “corona” in its name comes from.) The part of the protein that does the actual binding, called the S1 subunit, can vary considerably, allowing the virus to bind to many different mammalian host species.
+
+Most coronaviruses that infect humans appear to latch onto one of three specific host receptors on mammalian cells. SARS-CoV and NL63 use a human receptor called angiotensin-converting enzyme 2 (ACE2), MERS uses dipeptidyl peptidase 4 (DDP-4), and 229E uses aminopeptidase N (APN). These proteins are all present on epithelial, or surface, cells of the human airway, presenting easy targets to any airborne virus. Two recent studies of SARS-CoV-2 suggest that, like SARS-CoV, it uses ACE2 as a receptor.
+
+Any other zoonoses we should worry about?
+While it isn’t necessarily a cause for worry, there is another virus that commonly emerges from animal reservoirs: influenza. Almost all known influenza viruses originate in waterfowl such as ducks, geese, terns, gulls and related species. Many viruses move from birds into other species (including humans). Often, the new species is a dead end; the avian influenza virus can jump from birds to humans, for instance, but not between humans. But occasionally, a novel virus can also spread efficiently among people. We saw this most recently in 2009 with H1N1, a swine virus that spread among humans, eventually causing a pandemic. And an avian H1N1 virus was responsible for the global pandemic of 1918.
+
+Quantized Columns
+A regular column in which top researchers explore the process of discovery. This month’s columnist, Tara C. Smith, is a professor of epidemiology and infectious-disease researcher.
+
+See all Quantized Columns
+
+To gain access to a host’s cells, influenza uses its own viral glycoprotein, hemagglutinin (H). Like the coronavirus spike protein, H is a spiky-looking surface protein that sticks out from the virus. It binds to cells in the upper respiratory tract that have sialic acid residues — sugar chains attached to the ends of proteins and lipids. These sialic acids can come in different forms, with different types of linkages (ways that the atoms of the sialic acid bind to the sugar). Avian influenzas prefer a linkage known as an a2,3 linkage, in which the sialic acid binds to the sugar galactose via a specific carbon atom. This type of linkage makes the sialic acid and galactose stick straight up. Human-adapted influenza viruses seem to prefer an a2,6 linkage, which uses a different carbon atom and has a more bent appearance. This sialic acid preference is thought to be the major factor in determining which species a virus can infect, and it limits the ability of purely avian influenza viruses to infect and spread in human populations.
+
+What other factors influence which animal diseases can jump to humans?
+Recent work has shown that the host-virus interaction can also be modified by host proteases — enzymes that break down proteins — so it is not solely the makeup of the spike protein that determines which hosts are vulnerable to which viruses. These proteases can cut parts of the spike protein and alter how it binds to host cells, so viruses that normally might not infect human cells can do so after a protease treatment.
+
+Genetic analysis of SARS-CoV-2 sequences shows that their closest genetic relatives appear to be bat coronaviruses.
+
+The role of intermediate species may also be more complex than scientists thought at first. Researchers initially suspected that such species were necessary for coronaviruses to move from the primary reservoir species into humans. Perhaps the virus evolved and adapted to the intermediate species, making it more efficient at binding to human cells. However, recent studies have shown that some bat coronaviruses can infect human cells without passing through an intermediate host — meaning a significant reservoir of undiscovered coronaviruses may lurk out there. Similarly, we once believed pigs might serve as a “mixing vessel” where avian influenza strains would become better adapted to mammals, since pigs seem to have both a2,3- and a2,6-linked sialic acids on the cells of their trachea, allowing human and bird strains to mix and produce novel human-adapted viruses. But while pigs may serve this function, we now know that such mixing is not required, and that avian viruses can infect humans without a pig intermediate.
+
+Both virus species thus present an ongoing challenge due to their diversity and their proclivity for jumping hosts. In fact, that diversity likely allows these jumps in the first place, since a large, diverse population may be more likely to contain viruses that can bind to a variety of host receptors than a more homogeneous population. Because of this, coronaviruses and influenza both have pandemic potential.
+
+What can we do to protect ourselves?
+First of all, keep yourself safe by washing your hands, and avoid touching your face and eyes — practices that help avoid infection with either virus. You can catch a virus by directly breathing in virus-laden droplets in the air or by touching contaminated surfaces and then infecting your nose and eyes, whose mucous membranes serve as entry sites.
+
+RELATED:
+How to Permanently End Diseases
+The Unforgiving Math That Stops Epidemics
+A New Way to Predict Infection’s Toll
+Researchers develop flu vaccines every year, and scientists are working toward that holy grail of influenza research, a universal vaccine that protects against all strains of the virus. With coronavirus, we’re not quite as far along. The sporadic nature of serious outbreaks means funding and expertise are minimal. A number of laboratories are currently devising a SARS-CoV-2 vaccine, but it takes time to carry out animal and human clinical testing.
+
+Researchers will also continue their surveillance of emerging influenza and coronaviruses, examining their genomes for hallmarks of adaptation to humans. We may have been too late to catch SARS-CoV-2, but we can still prepare for the next one.
+Human Coronavirus Types
+Coronaviruses are named for the crown-like spikes on their surface. There are four main sub-groupings of coronaviruses, known as alpha, beta, gamma, and delta.
+
+Human coronaviruses were first identified in the mid-1960s. The seven coronaviruses that can infect people are:
+
+Common human coronaviruses
+229E (alpha coronavirus)
+NL63 (alpha coronavirus)
+OC43 (beta coronavirus)
+HKU1 (beta coronavirus)
+Other human coronaviruses
+MERS-CoV (the beta coronavirus that causes Middle East Respiratory Syndrome, or MERS)
+SARS-CoV (the beta coronavirus that causes severe acute respiratory syndrome, or SARS)
+SARS-CoV-2 (the novel coronavirus that causes coronavirus disease 2019, or COVID-19)
+People around the world commonly get infected with human coronaviruses 229E, NL63, OC43, and HKU1.
+
+Sometimes coronaviruses that infect animals can evolve and make people sick and become a new human coronavirus. Three recent examples of this are 2019-nCoV, SARS-CoV, and MERS-CoV.
+Each year, from around October through May, international health coverage is primarily focused on the flu—and with good reason: The flu is notoriously infectious and can cause up to 45 million illnesses each year, according to the Centers for Disease Control and Prevention. But this year, the new coronavirus outbreak (aka, COVID-19) is dominating the headlines, causing more than 80,000 illnesses in just over two months.
+
+Both viruses—influenza and coronavirus—are highly infectious diseases with similar symptoms, transmission, and prevention methods, but is one necessarily worse than the other? Here, infectious disease experts across the US compare all aspects of both illnesses, to determine whether coronavirus is any worse than the flu—or vice-versa.
+
+RELATED: Here's How to Prepare for Coronavirus, After CDC Warns Americans of a Likely Outbreak
+
+Symptoms
+Both seasonal flu viruses (which include influenza A and influenza B viruses) and COVID-19 are contagious viruses that cause respiratory illness. 
+
+According to the CDC, the flu typically manifests itself in symptoms such as fever, cough, sore throat, muscle aches, headaches, runny or stuffy nose, fatigue and, occasionally, vomiting and diarrhea—typically, the latter two are more common in children. Those flu symptoms often come on suddenly after an incubation period of two to five days. 
+
+While the majority of people infected with the flu will be fully recovered in about two weeks, for some people (most often those with compromised immune systems), the flu can lead to complications like pneumonia. According to recent data from the CDC, this year just 1% of people suffering from the flu have been hospitalized.
+
+As for COVID-19, researchers are still scrambling to compile thorough and accurate data to understand how the disease works. One study, involving just 100 people with the virus, published Jan. 30 in the journal The Lancet, noted that the most common symptoms were fever, cough and shortness of breath, with approximately 5% reporting sore throat and runny nose, and just 1-2% reporting diarrhea, nausea and vomiting. Those symptoms, however, usually come on a bit more gradually after an incubation period of two to 14 days. 
+
+If they sound extremely similar, that's because they are, according to Manisha Juthani, MD, a Yale Medicine infectious disease specialist. “Based on symptoms alone, COVID-19 and flu are very difficult to distinguish,” says Dr. Juthani.
+
+RELATED: Coronavirus May Be Spreading So Quickly Due to Fecal Transmission, Says New Research
+
+Treatment, vaccines, and prevention
+The first and most major difference between the flu and novel coronavirus, is how little we know about the latter—which plays into into the absence of treatment and vaccines for COVID-19. "People often compare the flu to COVID-19, but we have a vaccine to prevent and medications to treat the flu. Right now, we have no medications or vaccine for COVID-19," says Dr. Juthani.
+
+The influenza vaccine, for example, was first licensed for use in civilians in 1945—and now, doctors recommend all people over six months old get the flu shot each year, ideally as early as the end of October. Treatment for the flu is also an option, with antiviral medications like Tamiflu, which can shorten the amount of time you're sick and prevent flu complications like pneumonia. But, for Tamiflu to work effectively, it needs to be taken with in the first 48 hours of the onset of symptoms—and most flu cases are so mild they may not even need treatment other than rest and symptom management.
+
+While scientists are currently working on a coronavirus vaccine, it likely won't be ready in time to combat the current outbreak, Jeremy Brown, MD, director of the Office of Emergency Care Research at the National Institutes of Health and author of Influenza: The Hundred-Year Hunt to Cure the Deadliest Disease in History, previously told Health. That's because the entire vaccine process—from early development through human testing—can take a lot of time and cost a lot of money. Fortunately, in working on a vaccine for the current coronavirus, researchers may discover clues that may help treat or even prevent future outbreaks.
+
+At this point, the best options for keeping yourself infection-free is following the CDC’s recommendations for all respiratory illnesses. That includes washing your hands often with soap and water for at least 20 seconds; not touching your eyes, nose and mouth with unwashed hands; avoiding close contact with people who are sick; staying home when you are sick; and disinfecting frequently touched objects and surfaces.
+
+RELATED: A Coronavirus 'Super-Spreader' May Have Infected At Least 11 People With the Virus—Here's How That Happens
+
+Virus transmission
+Researchers still aren't sure how contagious COVID-19 is compared to other viruses, but it appears to spread more rapidly than the flu. “In public health we measure something called the R0 (pronounced 'R-naught') which is the average number of people infected by a person with the virus,” says Dr Brown. He goes on to explain that the R0 for influenza is about 1.3, meaning about 1.3 people get the virus from every ten who have the infection. Measles, on the other hand, is extremely contagious, with an R0 of 12-18. “We are still not sure what the R0 is for coronavirus, but it appears to be about 2.0, which is about the same as SARS,” Dr. Brown continues. “These are early estimates though and are likely to change as we get better data.”
+
+In both the flu and coronavirus, however, the main method of transmission appears to be from person to person via respiratory transmission—essentially by coming in close contact (within six feet) with respiratory droplets from the coughs and sneezes of infected people. The flu and coronavirus also have similar periods of time when people are asymptomatic but still contagious. “It appears that with both viruses, people may be able to transmit the virus before they are symptomatic,” explains Dr. Juthani. 
+
+RELATED: No, Coronavirus Was Not Caused by 'Bat Soup'–But Here's What Researchers Think May Be to Blame
+
+Severity of infections and death rate
+Most people who contract the flu will recover in a few days to less than two weeks, per the CDC—but a small number of people may develop complication, some of which can be life-threatening. People at a higher risk for these complications include those over 65, anyone who has a chronic medical condition, pregnant women, and children under 5 years old.
+
+Globally, the World Health Organization (WHO) estimates that the flu kills 290,000 to 650,000 people each year, and per the CDC, up to 61,000 of those deaths occurred in the US annually since 2010.
+
+While we don't have yearly estimates for coronavirus fatalities yet, the WHO's newest Situation Report, published on February 25, says that out of the 80,239 confirmed coronavirus cases worldwide, the illness has resulted in 2,700 deaths—2,666 of which have occurred in China.
+
+It's also important to note that a recent investigation by the Chinese Center for Disease Control and Protection, published in JAMA, analyzed data compiled between Dec. 31, 09 and Feb. 11, 2020 of 44,672 confirmed cases in China—80% of which were considered mild, and only 4.7% were critical.
+
+Overall, per the CDC, the death rate of those who have been infected with the flu this flu season is 0.05%. According to the research conducted by the Chinese CDC, the case-fatality rate of novel coronavirus in China is 2.3%. 
+
+RELATED: 3 Coronavirus Symptoms You Need to Know—and How to Prevent the Virus
+
+So overall, which is worse: coronavirus or flu?
+That's not really an easy question to answer, says Dr. Brown. "It depends on what you mean by worse,” he says. “More easily spread? Then it appears to be coronavirus. Causes more cases of serious illness. Then it’s flu.”
+
+Another thing that makes the coronavirus a bit more dangerous? That there are so many unknowns attached to it—unlike the flu which has been studied for decades. "Despite the morbidity and mortality with influenza, there's a certainty … of seasonal flu. I can tell you all, guaranteed, that as we get into March and April, the flu cases are going to go down. You could predict pretty accurately what the range of the mortality is and the hospitalizations [will be]," Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, said in a White House press conference on Jan. 31. "The issue now with [COVID-19] is that there's a lot of unknowns." 
+
+Either way, with new cases of COVID-19 being identified in Iran, Italy, and South Korea, Dr. Juthani believes we should be prepared for community spread of COVID-19 in the United States. “Until a vaccine is developed or pharmaceutical agents are identified that can treat COVID-19, we will need to use the same tactics we are familiar with for preventing flu to prevent COVID-19,” she says.   
+
+The information in this story is accurate as of press time. However, as the situation surrounding COVID-19 continues to evolve, it's possible that some data have changed since publication. While Health is trying to keep our stories as up-to-date as possible, we also encourage readers to stay informed on news and recommendations for their own communities by using the CDC, WHO, and their local public health department as resources.
+Coronaviruses fall in the virus family Coronaviridae, order Nidovirales.
+Coronaviruses are enveloped, 120 to 160 nm particles that contain an unsegmented genome of single-stranded positive-sense RNA (27–32 kb).
+The large, plus-stranded RNA genome associates with the N protein to form a helical nucleocapsid.
+The helical nucleocapsid is 9–11 nm in diameter.
+There are 20 nm long club or petal-shaped projections that are widely spaced on the outer surface of the envelope, suggestive of a solar corona.
+The viral structural proteins include a 50–60 kDa phosphorylated nucleocapsid (N) protein, a 20–35 kDa membrane (M) glycoprotein that serves as a matrix protein embedded in the envelope lipid bilayer and interacting with the nucleocapsid, and the spike (S) a 180–220 kDa glycoprotein that makes up the petal-shaped peplomers.
+Some viruses, including human coronavirus OC43 (HCoV-OC43), contain a third glycoprotein (HE; 65 kDa) that causes hemagglutination and has acetylesterase activity.
+Coronavirus genomes are monopartite, single-stranded, positive-sense, polyadenylated, and capped RNAs ranging from 27 to 32 kb in length.
+The 5' approximately 20 to 22 kb carries the replicase gene, which encodes multiple enzymatic activities.
+The replicase gene products are encoded within two very large open reading frames, ORFs 1a and 1b.
+The order of the genes encoding the viral RNA-dependent RNA polymerase and the four common structural proteins, the spike (S), envelope (E), membrane (M), and nucleocapsid (N) proteins are indicated as Pol-S-E-M-N.
+Coronavirus genomes also include a variety of additional open reading frames (ORFs) that encode two to four nonstructural proteins of unknown functions.
+In the genome, a common intergenic sequence (IS) of about 7 bases is found at the 5' end of each gene.
+This IS sequence is essential for the formation of subgenomic RNAs.
+Coronavirus-infected cells contain multiple overlapping subgenomic, capped, and polyadenylated mRNAs with a common 3' end.
+Each subgenomic mRNA and the viral genomic RNA, which also serves as an mRNA, is translated to yield only the protein encoded by the 5' gene on the mRNA.
+Natural outbreaks of colds caused by coronaviruses occur predominantly during the winter months, although in children, two peaks in late autumn to early winter and early summer were detected.
+It is estimated that coronaviruses cause 15–30% of all colds.
+Studies using virus detection or serology have shown that HCoV 229E, OC43, and NL63 occur worldwide.
+The contribution of each HCoV may vary widely from year to year, for example, 229E contributing as little as 1% to acute respiratory infections in the community in one year and up to 35% in the next.
+The incidence of coronavirus infections varies markedly from year to year, ranging in one 3-year study from 1% to 35%.
+A novel coronavirus known as SARS-CoV-2 was identified in Wuhan, China when people developed pneumonia-like symptoms.
+SARS-CoV-2 could transmit from one human to another human.
+Natural infection of humans with human respiratory coronaviruses occurs through exposure to respiratory secretions.
+Coronaviruses attach to their glycoprotein receptors on host cells via their S proteins.
+Viral entry is mediated by fusion of the viral envelope with the host cell membrane or by receptor-mediated endocytosis.
+Group 1 coronaviruses 229E and NL63 bind to the metalloproteases, human aminopeptidase N and angiotensin-converting enzyme 2 (ACE-2) respectively.
+The receptors for OC43 and HKU-1 have not been yet identified.
+The fusion of the viral and cell membranes (either at the cell surface or within the endocytic vesicle) is mediated by the S2 portion of the virus spike protein which functions as a class 1 fusion protein.
+Once the viral RNA is released into the cytoplasm, translation of the positive-strand genomic RNA gives rise to a large polyprotein that undergoes proteolytic processing to generate an RNA-dependent RNA polymerase.
+An RNA-dependent RNA polymerase translated from the plus-stranded viral genomic RNA makes a negative-strand that serves as the template for a nested set of five to seven subgenomic mRNAs.
+Translation of subgenomic mRNAs gives rise to structural viral proteins.
+The N protein and newly synthesized genomic RNA assemble to form helical nucleocapsids.
+Membrane glycoprotein M is inserted in the endoplasmic reticulum (ER) and anchored in the Golgi apparatus.
+The nucleocapsid (N plus genomic RNA) binds to M protein at the budding compartment (ERGIC).
+E and M proteins interact to trigger the budding of virions, enclosing the nucleocapsid.
+These newly formed virions are transported via the Golgi apparatus to the plasma membrane where they are released by exocytosis.
+The primary route of transmission of human coronaviruses is via the respiratory tract, most likely spread by aerosols and in large droplets (e.g., sneezes).
+Infection with the common-cold coronaviruses leads to loss of ciliary action (ciliostasis) and degenerative changes affecting the cilia of epithelial cells of the respiratory tract.
+Infection remains localized to the upper respiratory tract because the optimum temperature for viral growth is 33° C to 35° C and may lead to the lower respiratory tract.
+HCoV-OC43 is generally associated with mild upper respiratory tract infections, although it has been shown to have neuroinvasive properties.
+HCoVs in both the 229E- and OC43-related serogroups cause upper respiratory signs and symptoms in adults and children that vary in frequency and severity.
+HCoVs cause respiratory infections(bronchiolitis and pneumonia), but gastroenteritis and neurological disorders can also occur.
+The human coronaviruses produce “common colds,” usually afebrile, in adults.
+The symptoms include nasal discharge and malaise.
+Other symptoms include rhinorrhea, headache, malaise, chills, sore throat, and cough.
+The incubation period is from 2 to 5 days.
+Symptoms last for a mean of 7 days, with a range of 3 to 18 days.
+Patients with symptomatic coronavirus infection show a rise in neutralizing and complement fixation antibody titers in the serum after inoculation that waned after months.
+The lower respiratory tract is seldom involved, although pneumonia may occur.
+Asthmatic children may suffer wheezing attacks, and respiratory symptoms may be exacerbated in adults with chronic pulmonary disease.
+HCoV-OC43 can infect neurons and cause encephalitis.
+Virus isolation- The human hepatoma cell-line HUH7 has been recently used for primary isolation of OC43, 229E and HKU-1 viruses from clinical specimens and NL63 has been isolated in LLC-MK2 and Vero B4 cells.
+Detection of viral RNA by RT-PCR.
+Electron microscopy of negatively stained stool specimens is useful for the detection of enteric coronaviruses.
+Complement fixation, ELISA assays, immunofluorescence or virus neutralization tests have been used for serological diagnosis.
+The serologic diagnosis of infections with strain 229E is possible using a passive hemagglutination test in which red cells coated with coronavirus antigen are agglutinated by antibody-containing sera.
+HCoV-OC43–related virions that express a HE glycoprotein on the viral envelope can also be detected by hemagglutination and acetyl esterase assays.
+Washing hands often with soap and water.
+Avoid touching eyes, nose, or mouth with unwashed hands.
+Avoiding close contact with people who are sick.
+Covering mouth and nose with a tissue while coughing or sneezing, then throw the tissue in the trash and washing hands.
+Coronaviruses were first identified in the 1960s, but we don't know where they come from. They get their name from their crown-like shape. Sometimes, but not often, a coronavirus can infect both animals and humans.
+
+Most coronaviruses spread the same way other cold-causing viruses do: through infected people coughing and sneezing, by touching an infected person's hands or face, or by touching things such as doorknobs that infected people have touched.
+
+Almost everyone gets a coronavirus infection at least once in their life, most likely as a young child. In the United States, coronaviruses are more common in the fall and winter, but anyone can come down with a coronavirus infection at any time.
+
+Severe coronavirus outbreaks include:
+
+COVID-19: In early 2020, after a December 2019 outbreak in China, the World Health Organization (WHO) identified a new type, 2019 novel coronavirus (2019-nCoV), which can be fatal. The organization named the virus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and named the disease it causes COVID-19. The outbreak quickly moved from China around the world. Symptoms of COVID-19 include fever, cough, and shortness of breath.
+
+Middle East Respiratory Syndrome (MERS): About 858 people have died from MERS, which first appeared in Saudi Arabia and then in other countries in the Middle East, Africa, Asia, and Europe. In April 2014, the first American was hospitalized for MERS in Indiana and another case was reported in Florida. Both had just returned from Saudi Arabia. In May 2015, there was an outbreak of MERS in Korea, which was the largest outbreak outside of the Arabian Peninsula.
+Severe Acute Respiratory Syndrome  ( SARS ): In 2003, 774 people died from an outbreak. As of 2015, there were no further reports of cases of SARS. 
+ 
+
+Common Symptoms of Coronavirus
+The symptoms of most coronaviruses are similar to any other upper respiratory infection, including runny nose, coughing, sore throat, and sometimes a fever. In most cases, you won't know whether you have a coronavirus or a different cold-causing virus, such as rhinovirus.
+What is the new virus?
+
+The infection is caused by a previously unknown strain of coronavirus, a large family of viruses named after their crown-like protruding spines. The common cold, and more serious infections, such as pneumonia and Sars, are caused by coronaviruses.
+
+What does the virus do?
+
+The new virus causes severe respiratory illness. The main symptoms are fever, coughing, shortness of breath and breathing difficulties. The incubation period, or time from onset of infection to first symptoms appearing, is thought to be 10 days.
+
+How does the virus spread?
+
+The same way as influenza and other respiratory infections. Through coughs, sneezes, and contact with the virus.
+
+Can it spread among people?
+
+Yes, but not easily. Tests in the UK have confirmed the virus passed from a man to his son. Another family member also picked up the infection.
+
+How dangerous is it?
+
+So far, six of the 12 people known to have contracted the virus globally have died from the illness. But the risk of infection is very low, because the virus does not spread easily. If it were highly transmissible, there would be far more cases, particularly among hospital staff. For the latest information, see the World Health Organisation updates. The virus is fairly fragile, lasting only about 24 hours outside the body. It is destroyed by detergents and most cleaning products.
+
+Where did the virus come from?
+
+Most people appear to have caught the virus while travelling in Saudi Arabia or Qatar. The first case was identified in September, in a patient who died from the infection in June 2012. The virus is new to humans, but its genetic makeup is very similar to a strain that infects bats. People may have become infected from contact with bat droppings, or people or other animals that were contaminated. Investigations are under way in Saudi Arabia and Qatar to confirm the source of the disease. Further cases have been identified in Jordan.
+
+How safe is travel to the Middle East?
+
+There are no travel restrictions in place and the risk to visitors is very low. Most travellers who return with mild respiratory symptoms are likely to have a common illness, such as a cold. But if the symptoms, such as shortness of breath, become severe, within 10 days of returning from these countries people should visit their GP or call NHS Direct, and mention the countries they have visited.
+
+How is the infection treated?
+
+Too little is known about the virus to provide specific details, but patients with severe infections are given breathing support in hospital. The Health Protect Agency recommends that suspected cases are kept in strict respiratory isolation and that all carers wear respirators, goggles, gowns and gloves.
+Stay home: People who are mildly ill with COVID-19 are able to recover at home. Do not leave, except to get medical care. Do not visit public areas.
+Stay in touch with your doctor. Call before you get medical care. Be sure to get care if you feel worse or you think it is an emergency.
+Avoid public transportation: Avoid using public transportation, ride-sharing, or taxis.
+family separated
+Separate yourself from other people in your home, this is known as home isolation
+Stay away from others: As much as possible, you should stay in a specific “sick room” and away from other people in your home. Use a separate bathroom, if available.
+Limit contact with pets & animals: You should restrict contact with pets and other animals, just like you would around other people.
+Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people with the virus limit contact with animals until more information is known.
+When possible, have another member of your household care for your animals while you are sick with COVID-19. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with them. See COVID-19 and Animals for more information.
+on the phone with doctor
+Call ahead before visiting your doctor
+Call ahead: If you have a medical appointment, call your doctor’s office or emergency department, and tell them you have or may have COVID-19. This will help the office protect themselves and other patients.
+man wearing a mask
+Wear a facemask if you are sick
+If you are sick: You should wear a facemask when you are around other people and before you enter a healthcare provider’s office.
+If you are caring for others: If the person who is sick is not able to wear a facemask (for example, because it causes trouble breathing), then people who live in the home should stay in a different room. When caregivers enter the room of the sick person, they should wear a facemask. Visitors, other than caregivers, are not recommended.
+woman covering their mouth when coughing
+Cover your coughs and sneezes
+Cover: Cover your mouth and nose with a tissue when you cough or sneeze.
+Dispose: Throw used tissues in a lined trash can.
+Wash hands: Immediately wash your hands with soap and water for at least 20 seconds. If soap and water are not available, clean your hands with an alcohol-based hand sanitizer that contains at least 60% alcohol.
+washing hands
+Clean your hands often
+Wash hands: Wash your hands often with soap and water for at least 20 seconds. This is especially important after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food.
+Hand sanitizer: If soap and water are not available, use an alcohol-based hand sanitizer with at least 60% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry.
+Soap and water: Soap and water are the best option, especially if hands are visibly dirty.
+Avoid touching: Avoid touching your eyes, nose, and mouth with unwashed hands.
+don't share
+Avoid sharing personal household items
+Do not share: Do not share dishes, drinking glasses, cups, eating utensils, towels, or bedding with other people in your home.
+Wash thoroughly after use: After using these items, wash them thoroughly with soap and water or put in the dishwasher.
+cleaning a counter
+Clean all “high-touch” surfaces everyday
+Clean high-touch surfaces in your isolation area (“sick room” and bathroom) every day; let a caregiver clean and disinfect high-touch surfaces in other areas of the home.
+
+Clean and disinfect: Routinely clean high-touch surfaces in your “sick room” and bathroom. Let someone else clean and disinfect surfaces in common areas, but not your bedroom and bathroom.
+If a caregiver or other person needs to clean and disinfect a sick person’s bedroom or bathroom, they should do so on an as-needed basis. The caregiver/other person should wear a mask and wait as long as possible after the sick person has used the bathroom.
+High-touch surfaces include phones, remote controls, counters, tabletops, doorknobs, bathroom fixtures, toilets, keyboards, tablets, and bedside tables.
+
+Clean and disinfect areas that may have blood, stool, or body fluids on them.
+Household cleaners and disinfectants: Clean the area or item with soap and water or another detergent if it is dirty. Then, use a household disinfectant.
+Be sure to follow the instructions on the label to ensure safe and effective use of the product. Many products recommend keeping the surface wet for several minutes to ensure germs are killed. Many also recommend precautions such as wearing gloves and making sure you have good ventilation during use of the product.
+Most EPA-registered household disinfectants should be effective. A full list of disinfectants can be found hereexternal icon.
+taking temperature
+Monitor your symptoms
+Seek medical attention, but call first: Seek medical care right away if your illness is worsening (for example, if you have difficulty breathing).
+Call your doctor before going in: Before going to the doctor’s office or emergency room, call ahead and tell them your symptoms. They will tell you what to do.
+Wear a facemask: If possible, put on a facemask before you enter the building. If you can’t put on a facemask, try to keep a safe distance from other people (at least 6 feet away). This will help protect the people in the office or waiting room.
+Follow care instructions from your healthcare provider and local health department: Your local health authorities will give instructions on checking your symptoms and reporting information.
+alert icon
+Call 911 if you have a medical emergency: If you have a medical emergency and need to call 911, notify the operator that you have or think you might have, COVID-19. If possible, put on a facemask before medical help arrives.
+
+father playing with his son
+How to discontinue home isolation
+People with COVID-19 who have stayed home (home isolated) can stop home isolation under the following conditions:
+If you will not have a test to determine if you are still contagious, you can leave home after these three things have happened:
+You have had no fever for at least 72 hours (that is three full days of no fever without the use medicine that reduces fevers)
+AND
+other symptoms have improved (for example, when your cough or shortness of breath have improved)
+AND
+at least 7 days have passed since your symptoms first appeared
+If you will be tested to determine if you are still contagious, you can leave home after these three things have happened:
+You no longer have a fever (without the use medicine that reduces fevers)
+AND
+other symptoms have improved (for example, when your cough or shortness of breath have improved)
+AND
+you received two negative tests in a row, 24 hours apart. Your doctor will follow CDC guidelines.
